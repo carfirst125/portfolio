@@ -39,7 +39,7 @@ Refer the below Block Diagram for details.
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagramDetails.png?raw=true)
 
-The block diagram looks straightforward to understant, doesn't it? However, 
+The block diagram looks straightforward to understant, doesn't it? However, you will face with critical issue when implement this. Those are discussed further in the next session of important notes.
 
-#### IMPORTANT NOTE
+#### IMPORTANT NOTES
 

@@ -12,4 +12,12 @@ Based on purchasing history of customer likes purchased item-name and quantity, 
 From the purchasing history data of customer, similar items-pair are picked. Similar items-pair is defined as the pair of items which got the same favorite by a customer.
 Based on the customer purchased items, and looking up them in similar items-pair table, we have recommendation item list.
 
+#### General Block Diagram
+
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagram.png?raw=true)
+
+#### Implementation Proposition
+
+AVC
+
+![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagramDetails.png?raw=true)

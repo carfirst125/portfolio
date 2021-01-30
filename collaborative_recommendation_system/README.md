@@ -49,8 +49,10 @@ When the amount of customer is small (<100.000), everything is normal. However, 
 
 *Solution:* 
 
-      - increase the resource      
-      - find another algorithm to find the nearest neighbors       
+      - increase the computing resource      
+      - find another algorithm to find the nearest neighbors instead of kdtree       
       - split large input files to smaller files (choose the suitable spliting method)
  
+ 2. Fair Normalization
  
+

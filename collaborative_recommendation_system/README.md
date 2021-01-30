@@ -43,3 +43,5 @@ The block diagram looks straightforward to understant, doesn't it? However, you 
 
 #### IMPORTANT NOTES
 
+1. The large customer input files
+When the amount of customer is small (<100.000), everything is normal. However, when the amount of customers is large, you might got the problem when processing by tremendous matrix process. The kdtree model 

@@ -16,8 +16,13 @@ Based on the customer purchased items, and looking up them in similar items-pair
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagram.png?raw=true)
 
-#### Implementation Proposition
+#### Aplication
 
-AVC
+Case Study: A Food and Beverage band need to get insight of which products are the most favourite ones for each customer. Besides, they also would like to know beyond those product whether there are other products that might are potential to them, but they have not tried before. 
+
+#### Implementation Proposal
+
+Case
+You can refer the below details Block Diagram for implement  the Collaborative Filtering 
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagramDetails.png?raw=true)

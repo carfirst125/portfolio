@@ -16,9 +16,9 @@ Based on the customer purchased items, and looking up them in similar items-pair
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagram.png?raw=true)
 
-#### Aplication
+#### Case Study
 
-Case Study: A Food and Beverage band need to get insight of which products are the most favourite ones for each customer. Besides, the company also would like to know that beyond the favorite products, whether there are any other products that might are potential to customers, but they have not tried before. Besides the marketing campaign focuses on customer's favourite items, company also would like to have the campaign to recommend new recipes to customers. So customer has the chance to expand their favourite list in their brand. That is great! 
+A Food and Beverage band need to get insight of which products are the most favourite ones for each customer. Besides, the company also would like to know that beyond the favorite products, whether there are any other products that might are potential to customers, but they have not tried before. Besides the marketing campaign focuses on customer's favourite items, company also would like to have the campaign to recommend new recipes to customers. So customer has the chance to expand their favourite list in their brand. That is great! 
 
 The Collaborative Filter can be used to solve this issue.
 
@@ -47,9 +47,8 @@ The block diagram looks straightforward to understant, doesn't it? However, you 
 
 When the amount of customer is small (<100.000), everything is normal. However, when the amount of customers is large, you might got the problem when processing by tremendous matrix process. The kdtree model might be over-memory.
 
-Solution: - increase the resource
-
-          - find another algorithm to find the nearest neighbors
-          
-          - split large input files to smaller files (choose the suitable spliting method)
+Solution: 
+      - increase the resource
+      - find another algorithm to find the nearest neighbors          
+      - split large input files to smaller files (choose the suitable spliting method)
  

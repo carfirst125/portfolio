@@ -26,10 +26,17 @@ The Collaborative Filter can be used to solve this issue.
 
 Belong to which data source that you have, you can define the most suitable solution to solve the issue. 
 In this proposal, the simplest method is discussed as your reference which delivers beneficial in this case.
-The input data is the purchasing history of customers.
-The implementation therefore could be two parts. The first part can be so-called as TRAIN process. This process trains model for userbased method, and does statistical analysis to from similar item pair used by item based method.
 
+The input data is **the purchasing history of customers**.
 
-You can refer the below details Block Diagram for implement  the Collaborative Filtering 
+The implementation therefore could be two parts. 
+
+The first part can be so-called as **TRAIN process**. This process trains model for user-based method, and does statistical analysis to from similar item pair used by item-based method.
+
+The second part is the **QUERY process**, so you can input the data of a number of customers and get the favourite items, and recommend result in both methods of user-based and item-based.
+
+Refer the below Block Diagram for details.
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagramDetails.png?raw=true)
+
+

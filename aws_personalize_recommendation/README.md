@@ -29,9 +29,10 @@ The input data includes three types of data
 #### Interacts metadata
 
 This data could include: 
-    
-    Customer purchasing history (product, quantity and moneytary)
-    Interaction in website, mobile app (views, clicks, carting, checkout)
+
+Customer purchasing history (product, quantity and moneytary)
+
+Interaction in website, mobile app (views, clicks, carting, checkout)
 
 #### Items metadata
 

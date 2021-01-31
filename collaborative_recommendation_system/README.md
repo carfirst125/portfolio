@@ -65,6 +65,14 @@ This process reduces the bias effect of minority (outliers) to majority.
 
 Need to pay attention on the input matrix when query kdtree. The quantity of items or the order of items in input matrix is not right when query causes the error or wrong result. It is needs to save the input items list at TRAIN process, and ensure the input matrix in QUERY process is same meaning.
 
+4. Similar item-pair lookup
+
+In the item-based method, based on the consuming history of customer, the equavalent item in the item-pair would be extracted and ranked for the potential recommend item list. So which criteria used to rank the items in different pairs is the important thing to discuss. Recommend using number of customer vote for each similar item-pair, folowing with quantity of used items per customer for ranking.
+
+5. Items name and Product ID
+
+
+
 
 
 

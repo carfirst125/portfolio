@@ -52,7 +52,13 @@ The saved model as result of training operation is not charged.
 
 The campaign created a container (endpoint) where hardware is allocated, and is ready for query. The existence of campaign will be charged based on the used resource (EC2). Besides, based on the amount of query, the extra charge is computed.
 
-AWS Personalize also support **Filter** feature that permit you contrainst in the output result flexiblely.
+AWS Personalize also supports **Filter** feature that permit you contrainst in the output result flexiblely.
+
+Example Code
+
+You can refer the example code of AWS at https://github.com/aws-samples/amazon-personalize-samples/tree/master/next_steps/workshops/POC_in_a_box
+
+Besides, you can refer my diagram and upload code above for working flows.
 
 
 

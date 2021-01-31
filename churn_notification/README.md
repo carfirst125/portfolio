@@ -1,20 +1,8 @@
 ## Churn Notification
 
-AWS Personalize provides various recommendation methods for different questions. This project three recommendation method are discussed including **User Personalization**, **Personalized Ranking** and **SIMS**. Those are mentioned further as below.
+There are a variety of churn model proposals. However, it is not important what it is. The importance is your question, your business issue that you need to find the solution for that. 
 
-AWS Personalize uses HRNN model to implement this application.
-
-#### User Personalization
-
-Input is USER_ID. The model returns list of ITEM_IDs which have highest probability in purchasing at the next transaction.
-
-#### Personalized Ranking (Reranking)
-
-Input is list of ITEM_IDs and USER_ID. The model computes and re-ranks ITEM_ID in list. So we could know which ITEM_ID is most potential to the customer.
-
-#### SIMS
-
-Input is ITEM_ID. The model returns list of ITEM_IDs which are highest correlation with the input ITEM_ID (no User behavior reference)
+In this project, I would like to propose a simple churn model that support you in alert, provide the notification that which customer need contacting by long time without action, and this also means that the customer is nearly going to churn.
 
 ## General Block Diagram
 

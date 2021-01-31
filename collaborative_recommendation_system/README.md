@@ -69,9 +69,9 @@ Need to pay attention on the input matrix when query kdtree. The quantity of ite
 
 In the item-based method, based on the consuming history of customer, the equavalent item in the item-pair would be extracted and ranked for the potential recommend item list. So which criteria used to rank the items in different pairs is the important thing to discuss. Recommend using number of customer vote for each similar item-pair, folowing with quantity of used items per customer for ranking.
 
-5. Items name and Product ID
+5. Product multi-level tree (Categories and SKU)
 
-
+The product tree usually has some levels from categories to sub-categories and SKU/Product-ID at the end of tree. The SKU indicates particular product like type of product, size, color, season, etc. 
 
 
 

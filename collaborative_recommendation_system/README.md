@@ -73,7 +73,7 @@ In the item-based method, based on the consuming history of customer, the equava
 
 The product tree usually has some levels from categories to sub-categories and SKU/Product-ID at the end of tree. The SKU indicates particular product like type of product, size, color, season, etc. 
 
-Based on your insight in the industry, defining the suitable strategies in choosing which data will be used to analyze. For example, in this case study, you can choose sub-categories of product name for analysis. Then lookup for SKU/Product ID of needing to recommend by product ID. 
+Based on your insight in the industry, defining the suitable strategies in choosing which data will be used to analyze. For example, in this case study, you can choose sub-categories of product name for analysis, then lookup for SKU/Product ID if needing to recommend by product ID. 
 
 
 

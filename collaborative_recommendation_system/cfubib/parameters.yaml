@@ -1,0 +1,17 @@
+# parameters.yaml file
+CLUSTER_DIV_PROCESS_THRESHOLD : 10000 
+NUM_NEARBY : 70
+NUM_TOP  : 5 
+NUM_FAV_ITEMS : 7
+NUM_FAV_SIZE : 1
+NUM_BASE_RECOMMEND : 5
+NUM_CUS_KDTREE : 80000
+#####################################################################################################################################
+#PARAMETER NOTE:
+#CLUSTER_DIV_PROCESS_THRESHOLD: divide input files if number of customers is over this value.
+#NUM_NEARBY : number of nearby customer in userbased method.
+#NUM_TOP  : number of favorite items used to find recommend items (both method IU, UB)
+#NUM_FAV_ITEMS : number of favorite items will be found (cus_fav)
+#NUM_FAV_SIZE  : number of favorite sizes will be found (cus_fav)
+#NUM_BASE_RECOMMEND : number of RECOMMEND item at output
+#NUM_CUS_KDTREE: Number of customer will be used to train the final Kdtree (train all the kdtree is large)

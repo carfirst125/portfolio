@@ -1,7 +1,8 @@
 ## AWS Personalize Recommendation (User Personalization, Personalized Ranking, SIMS)
 
-Collaborative Filtering method refer other customers to find the candidate product items.
-There are two major methods could be considered to implement. They are user-based and items-based.
+AWS Personalize provides various recommendation methods for different questions. This project three recommendation method are discussed including **User Personalization**, **Personalized Ranking** and **SIMS**. Those are mentioned further as below.
+
+AWS Personalize uses HRNN model to implement this application.
 
 #### User Personalization
 

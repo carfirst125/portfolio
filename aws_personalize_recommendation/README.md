@@ -42,5 +42,7 @@ Comprising data relating to items *(item ingredients, attributes, features)*.
 
 This can be demographics information of customers *(gender, age, job, income, etc.)*
 
-Those data **MUST** be sent to **S3 Storage** before create group data set in AWS Peronalize and train.
+**Note:** Those data **MUST** be sent to **S3 Storage** before create group data set in AWS Peronalize and train.
+
+
 

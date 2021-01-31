@@ -10,7 +10,7 @@ Input is USER_ID. The model returns list of ITEM_IDs which have highest probabil
 
 #### Personalized Ranking (Reranking)
 
-Input is list of ITEM_IDs of a USER_ID. The model computes and re-ranks ITEM_ID in list. So we could know which ITEM_ID is most potential to the customer.
+Input is list of ITEM_IDs and USER_ID. The model computes and re-ranks ITEM_ID in list. So we could know which ITEM_ID is most potential to the customer.
 
 #### SIMS
 

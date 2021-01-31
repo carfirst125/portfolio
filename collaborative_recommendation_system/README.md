@@ -55,4 +55,11 @@ When the amount of customer is small (<100.000), everything is normal. However, 
  
  2. Fair Normalization
  
-In kdtree, the minkowski distance with p=2 is used. It is crucial to normalize data which ensure the fair treatment among multi-dimensions.  
+In kdtree, the minkowski distance with p=2 is used. It is crucial to normalize data which ensure the fair treatment among multi-dimensions.
+
+For the max-min normalization, it is suggested to analyze the distribution of each dimension data in order to choose max-min which covers 85% of data. The value out of range should be adjusted to the max or min depending on their actual value.
+
+This process reduces the bias effect of minority (outliers) to majority.
+
+
+

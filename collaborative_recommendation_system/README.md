@@ -14,7 +14,7 @@ Based on the customer purchased items, and looking up them in similar items-pair
 
 #### General Block Diagram
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagram.png?raw=true)
+![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/cfubib_BlockDiagram.png?raw=true)
 
 #### Case Study
 
@@ -37,7 +37,7 @@ The second part is the **QUERY process**, so you can input the data of a number 
 
 Refer the below Block Diagram for details.
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/hlc_cfubib_c360_BlockDiagramDetails.png?raw=true)
+![alt text](https://github.com/carfirst125/portfolio/blob/main/collaborative_recommendation_system/cfubib_BlockDiagramDetails.png?raw=true)
 
 The block diagram looks straightforward to understant, doesn't it? However, you will face with critical issue when implement this. Those are discussed further in the next session of important notes.
 

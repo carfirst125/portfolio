@@ -61,5 +61,11 @@ For the max-min normalization, it is suggested to analyze the distribution of ea
 
 This process reduces the bias effect of minority (outliers) to majority.
 
+3. Query Kdtree model
+
+Need to pay attention on the input matrix when query kdtree. The quantity of items or the order of items in input matrix is not right when query causes the error or wrong result. It is needs to save the input items list at TRAIN process, and ensure the input matrix in QUERY process is same meaning.
+
+
+
 
 

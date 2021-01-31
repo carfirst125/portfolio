@@ -1,0 +1,130 @@
+ITEM_ID,ITEM_SIZE,ITEM_FEA
+311,Size L,milk|caramel|cream|jelly|freeze|ice|grind_ice
+310,Size M,milk|caramel|cream|jelly|freeze|ice|grind_ice
+309,Size S,milk|caramel|cream|jelly|freeze|ice|grind_ice
+320,Size L,cafe|sugar|cream|jelly|freeze|ice|grind_ice
+319,Size M,cafe|sugar|cream|jelly|freeze|ice|grind_ice
+318,Size S,cafe|sugar|cream|jelly|freeze|ice|grind_ice
+362,Size L,cacao|sugar|cream|jelly|freeze
+361,Size M,cacao|sugar|cream|jelly|freeze
+360,Size S,cacao|sugar|cream|jelly|freeze
+392,Size L,tea|sugar|cream|jelly|freeze|ice|grind_ice|fruit_bean
+391,Size M,tea|sugar|cream|jelly|freeze|ice|grind_ice|fruit_bean
+390,Size S,tea|sugar|cream|jelly|freeze|ice|grind_ice|fruit_bean
+5817,B,sugar|cake|fruit_bean
+5853,B,sugar|cream|cake|fruit_bean
+5879,B,cacao|sugar|cake
+7899,B,tea|milk|ice|grind_ice|cake
+7900,B,milk|sugar|ice|grind_ice|cake
+13263,Size L,sugar|juice|ice|fruit_bean
+13262,Size M,sugar|juice|ice|fruit_bean
+13261,Size S,sugar|juice|ice|fruit_bean
+14585,Size L,cafe|cacao|milk|ice|grind_ice
+14584,Size M,cafe|cacao|milk|ice|grind_ice
+14583,Size S,cafe|cacao|milk|ice|grind_ice
+14597,B,cafe|sugar|ice|cake
+14656,B,bread|veg|meat
+313,B,milk|caramel|cream|jelly|freeze|ice|grind_ice
+314,B,milk|caramel|cream|jelly|freeze|ice|grind_ice
+314,Size L,milk|caramel|cream|jelly|freeze|ice|grind_ice
+313,Size M,milk|caramel|cream|jelly|freeze|ice|grind_ice
+312,Size S,milk|caramel|cream|jelly|freeze|ice|grind_ice
+13266,Size L,sugar|juice|ice
+13265,Size M,sugar|juice|ice
+13264,Size S,sugar|juice|ice
+293,Size L,cafe|heat
+292,Size M,cafe|heat
+291,Size S,cafe|heat
+13260,Size L,juice|heat
+13259,Size M,juice|heat
+13258,Size S,juice|heat
+5864,B,cafe|milk|sugar|cream|cake
+356,Size L,cafe|milk|heat
+355,Size M,cafe|milk|heat
+354,Size S,cafe|milk|heat
+5848,B,cacao|milk|sugar|cream|cake
+5842,B,bread|veg
+338,Size L,cafe|milk|ice
+337,Size M,cafe|milk|ice
+336,Size S,cafe|milk|ice
+13314,Size L,juice|ice|grind_ice
+13313,Size M,juice|ice|grind_ice
+13312,Size S,juice|ice|grind_ice
+305,Size L,cafe|milk|cream|heat
+304,Size M,cafe|milk|cream|heat
+303,Size S,cafe|milk|cream|heat
+13257,Size L,juice|ice
+13256,Size M,juice|ice
+14720,Size M,juice|ice
+13255,Size S,juice|ice
+326,Size L,cafe|sugar|heat
+325,Size M,cafe|sugar|heat
+324,Size S,cafe|sugar|heat
+14598,B,sugar|cake
+344,Size L,cafe|milk|cream|heat
+343,Size M,cafe|milk|cream|heat
+342,Size S,cafe|milk|cream|heat
+5880,B,milk|sugar|cake
+331,B,tea|milk|sugar|cream|jelly|freeze|ice|grind_ice
+332,B,tea|milk|sugar|cream|jelly|freeze|ice|grind_ice
+8401,B,tea|milk|sugar|cream|jelly|freeze|ice|grind_ice
+332,Size L,tea|milk|sugar|cream|jelly|freeze|ice|grind_ice
+331,Size M,tea|milk|sugar|cream|jelly|freeze|ice|grind_ice
+330,Size S,tea|milk|sugar|cream|jelly|freeze|ice|grind_ice
+14106,B,caramel|sugar|cream|cake
+350,Size L,cafe|sugar|heat
+349,Size M,cafe|sugar|heat
+348,Size S,cafe|sugar|heat
+14107,B,milk|sugar|cream|juice|cake|fruit_bean
+298,B,cafe|milk|ice
+299,B,cafe|milk|ice
+299,Size L,cafe|milk|ice
+298,Size M,cafe|milk|ice
+297,Size S,cafe|milk|ice
+14655,B,cake|veg|meat
+14150,Size L,tea|sugar|cream|ice|fruit_bean
+14149,Size M,tea|sugar|cream|ice|fruit_bean
+14148,Size S,tea|sugar|cream|ice|fruit_bean
+328,B,cacao|sugar|cream|jelly|freeze|ice|grind_ice
+329,B,cacao|sugar|cream|jelly|freeze|ice|grind_ice
+329,Size L,cacao|sugar|cream|jelly|freeze|ice|grind_ice
+328,Size M,cacao|sugar|cream|jelly|freeze|ice|grind_ice
+327,Size S,cacao|sugar|cream|jelly|freeze|ice|grind_ice
+346,B,cafe|sugar|ice
+347,B,cafe|sugar|ice
+347,Size L,cafe|sugar|ice
+346,Size M,cafe|sugar|ice
+345,Size S,cafe|sugar|ice
+352,B,cafe|milk|ice
+353,B,cafe|milk|ice
+353,Size L,cafe|milk|ice
+352,Size M,cafe|milk|ice
+14581,Size M,cafe|milk|ice
+351,Size S,cafe|milk|ice
+366,B,tea|sugar|cream|ice|fruit_bean
+368,Size L,tea|sugar|cream|ice|fruit_bean
+367,Size M,tea|sugar|cream|ice|fruit_bean
+366,Size S,tea|sugar|cream|ice|fruit_bean
+372,B,tea|milk|sugar|jelly|ice|fruit_bean
+374,Size L,tea|milk|sugar|jelly|ice|fruit_bean
+373,Size M,tea|milk|sugar|jelly|ice|fruit_bean
+372,Size S,tea|milk|sugar|jelly|ice|fruit_bean
+380,Size L,tea|sugar|jelly|ice|fruit_bean
+379,Size M,tea|sugar|jelly|ice|fruit_bean
+378,Size S,tea|sugar|jelly|ice|fruit_bean
+386,Size L,tea|sugar|ice|fruit_bean
+385,Size M,tea|sugar|ice|fruit_bean
+384,Size S,tea|sugar|ice|fruit_bean
+5828,B,cake|veg|fish
+5831,B,bread|veg|meat
+5839,B,bread|veg|meat
+5865,B,milk|caramel|sugar|cream|cake
+5866,B,milk|sugar|cream|cake|fruit_bean
+5870,B,tea|milk|sugar|cream|cake
+14576,Size L,cafe|milk|cream|ice
+14575,Size M,cafe|milk|cream|ice
+14574,Size S,cafe|milk|cream|ice
+14579,Size L,cafe|milk|cream|ice|fruit_bean
+14578,Size M,cafe|milk|cream|ice|fruit_bean
+14577,Size S,cafe|milk|cream|ice|fruit_bean
+5882,B,milk|sugar|cream|cake

@@ -5,14 +5,15 @@ There are two major methods could be considered to implement. They are user-base
 
 #### User Personalization
 
-Based on purchasing history of customer likes purchased item-name and quantity, a number of nearby customer are found (eg. N nearby customer). Next, investigating to those customers to get the most favorite item list, then the top ones will be chosen for recommendation.
+Input is USER_ID. The model returns list of ITEM_IDs which have highest probability in purchasing at the next transaction.
 
-#### Personalized Ranking
+#### Personalized Ranking (Reranking)
 
-From the purchasing history data of customer, similar items-pair are picked. Similar items-pair is defined as the pair of items which got the same favorite by a customer.
-Based on the customer purchased items, and looking up them in similar items-pair table, we have recommendation item list.
+Input is list of ITEM_IDs of a USER_ID. The model computes and re-ranks ITEM_ID in list. So we could know which ITEM_ID is most potential to the customer.
 
 #### SIMS
+
+Input is ITEM_ID. The model returns list of ITEM_IDs which are highest correlation with the input ITEM_ID (no User behavior reference)
 
 #### General Block Diagram
 

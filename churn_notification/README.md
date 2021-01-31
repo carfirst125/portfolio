@@ -12,7 +12,11 @@ In this project, I would like to propose a simple churn model that support you i
 
 One of the most important questions of churn prediction or notification is how to get the value of the **Distance to Churn**, where a customer could be consulted as churn or not.
 
-This approach suggests using statistical method on the lengths between two continuous purchasing of customers for decide the **Distance to Churn**
+This approach suggests using statistical method on the lengths between two continuous purchases of customers for deciding the **Distance to Churn**.
+
+There are different frequencies in purchases among customers. Let try to exploratory data analysis for first purchasing distance, second, third, and so on, and get your own finding. You might recognize that the customer with higher frequency in purchasing seems to have shorter return time (means higher return rate in time). You can find the period of time that almost customer return. This can be compared with actual activity of particular customer to define the suitable Distance to Churn period for them. Based on the value, you can mark the time when the customer need alerting because of long time without purchasing. This is the labeling for churn notification.
+
+This is the time series issue, so I recommend you using LSTM for model train. The simplest input feature is the mark in time series purchasing status of customer.
 
 #### Example Code
 

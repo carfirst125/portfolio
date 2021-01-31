@@ -60,5 +60,10 @@ You can refer the example code of AWS at https://github.com/aws-samples/amazon-p
 
 Besides, you can refer my diagram and upload code above for working flows.
 
+Feeling Free to contact me if you have any question around.
 
+  Nhan Thanh Ngo
+  Email: ngothanhnhan125@gmail.com
+  Skype: ngothanhnhan125
+  Phone: (+84) 938005052
 

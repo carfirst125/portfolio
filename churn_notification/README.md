@@ -10,11 +10,11 @@ In this project, I would like to propose a simple churn model that support you i
 
 ## Implementation
 
-One of the most important questions of churn prediction or notification is how to get the value of the Distance to Churn, where a customer could be consulted as churn or not.
+One of the most important questions of churn prediction or notification is how to get the value of the **Distance to Churn**, where a customer could be consulted as churn or not.
 
-This approach suggests using statistical method on the lengths between two continuous purchasing of customers for decide the Distance to Churn
+This approach suggests using statistical method on the lengths between two continuous purchasing of customers for decide the **Distance to Churn**
 
-Example Code
+#### Example Code
 
 You can refer the example code of AWS at
 

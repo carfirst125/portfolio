@@ -44,7 +44,7 @@ This can be demographics information of customers *(gender, age, job, income, et
 
 **Note:** Those data **MUST** be sent to **S3 Storage** before create group data set in AWS Peronalize and train.
 
-2. Solution (Model) and Campaign
+2. Solution (Model), Campaign and Filter
 
 The training is implemented separately with each solution. The Train operation takes resource and charged until training end. 
 
@@ -52,7 +52,7 @@ The saved model as result of training operation is not charged.
 
 The campaign created a container (endpoint) where hardware is allocated, and is ready for query. The existence of campaign will be charged based on the used resource (EC2). Besides, based on the amount of query, the extra charge is computed.
 
-
+AWS Personalize also support **Filter** feature that permit you contrainst in the output result flexiblely.
 
 
 

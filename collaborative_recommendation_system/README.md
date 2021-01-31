@@ -45,7 +45,7 @@ The block diagram looks straightforward to understant, doesn't it? However, you 
 
 1. The large number of customers
 
-When the amount of customer is small (<100.000), everything is normal. However, when the amount of customers is large, you might got the problem when processing by tremendous matrix process. The kdtree model might be over-memory.
+When the amount of customer is small (<100.000), everything is normal. However, when the amount of customers is large, you might get the problem with tremendous matrix process. The kdtree model might be over-memory.
 
 *Solution:* 
 
@@ -55,4 +55,4 @@ When the amount of customer is small (<100.000), everything is normal. However, 
  
  2. Fair Normalization
  
-
+In kdtree, the minkowski distance with p=2 is used. It is crucial to normalize data which ensure the fair treatment among multi-dimensions.  

@@ -1,4 +1,4 @@
-## AWS Personalize Recommendation (User Personalization, Personalized Ranking, SIMS)
+## Churn Notification
 
 AWS Personalize provides various recommendation methods for different questions. This project three recommendation method are discussed including **User Personalization**, **Personalized Ranking** and **SIMS**. Those are mentioned further as below.
 
@@ -18,7 +18,7 @@ Input is ITEM_ID. The model returns list of ITEM_IDs which are highest correlati
 
 ## General Block Diagram
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/aws_personalize_recommendation/images/aws_personalize_recommendation_BlockDiagram.png?raw=true)
+![alt text](https://github.com/carfirst125/portfolio/blob/main/churn_notification/diagram/churn_prediction_BlockDiagram.png?raw=true)
 
 ## Implementation
 

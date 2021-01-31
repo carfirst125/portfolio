@@ -56,14 +56,19 @@ AWS Personalize also supports **Filter** feature that permit you contrainst in t
 
 Example Code
 
-You can refer the example code of AWS at https://github.com/aws-samples/amazon-personalize-samples/tree/master/next_steps/workshops/POC_in_a_box
+You can refer the example code of AWS at
+
+  *  https://github.com/aws-samples/amazon-personalize-samples/tree/master/next_steps/workshops/POC_in_a_box
 
 Besides, you can refer my diagram and upload code above for working flows.
 
 Feeling Free to contact me if you have any question around.
 
-  Nhan Thanh Ngo
-  Email: ngothanhnhan125@gmail.com
-  Skype: ngothanhnhan125
-  Phone: (+84) 938005052
+  - **Nhan Thanh Ngo**
+  
+  - **Email: ngothanhnhan125@gmail.com**
+  
+  - **Skype: ngothanhnhan125**
+  
+  - **Phone: (+84) 938005052**
 

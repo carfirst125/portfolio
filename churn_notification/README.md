@@ -10,37 +10,9 @@ In this project, I would like to propose a simple churn model that support you i
 
 ## Implementation
 
-1. Data for Training
+One of the most important questions of churn prediction or notification is how to get the value of the Distance to Churn, where a customer could be consulted as churn or not.
 
-The input data includes three types of data
-
-#### Interacts metadata
-
-This data could include: 
-
-*   *Customer purchasing history (product, quantity and moneytary)*
-
-*   *Interaction in website, mobile app (views, clicks, carting, checkout)*
-
-#### Items metadata
-
-Comprising data relating to items *(item ingredients, attributes, features)*.
-
-#### Users metadata
-
-This can be demographics information of customers *(gender, age, job, income, etc.)*
-
-**Note:** Those data **MUST** be sent to **S3 Storage** before create group data set in AWS Peronalize and train.
-
-2. Solution (Model), Campaign and Filter
-
-The training is implemented separately with each solution. The Train operation takes resource and charged until training end. 
-
-The saved model as result of training operation is not charged. 
-
-The campaign created a container (endpoint) where hardware is allocated, and is ready for query. The existence of campaign will be charged based on the used resource (EC2). Besides, based on the amount of query, the extra charge is computed.
-
-AWS Personalize also supports **Filter** feature that permit you contrainst in the output result flexiblely.
+This approach suggests using statistical method on the lengths between two continuous purchasing of customers for decide the Distance to Churn
 
 Example Code
 

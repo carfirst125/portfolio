@@ -16,8 +16,22 @@ Input is list of ITEM_IDs and USER_ID. The model computes and re-ranks ITEM_ID i
 
 Input is ITEM_ID. The model returns list of ITEM_IDs which are highest correlation with the input ITEM_ID (no User behavior reference)
 
-#### General Block Diagram
+## General Block Diagram
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/aws_personalize_recommendation/images/aws_personalize_recommendation_BlockDiagram.png?raw=true)
 
-#### Case Study
+## Implementation
+
+1. Data for Training
+
+The input data includes three types of data
+
+#### Interacts metadata
+
+
+
+#### Item metadata
+
+#### User metadata
+
+

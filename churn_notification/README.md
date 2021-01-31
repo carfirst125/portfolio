@@ -20,11 +20,13 @@ This is the time series issue, so I recommend you using LSTM for model train. Th
 
 #### Example Code
 
-You can refer the example code of AWS at
+Refer my upload example code for advance.
 
-  *  https://github.com/aws-samples/amazon-personalize-samples/tree/master/next_steps/workshops/POC_in_a_box
+For another approach of Churn Prediction, I recommend you refer WTTE model at 
 
-Besides, you can refer my diagram and upload code above for working flows.
+  *  https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/
+  
+This approach figures out the probability that a customer will return to purchase at a particular time in future.
 
 - - - - - 
 Feeling Free to contact me if you have any question around.

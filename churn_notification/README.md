@@ -1,6 +1,6 @@
 ## Churn Notification
 
-There are a variety of churn model proposals. However, it is not important the churn must do like this or like that. The importance is what is your question, your business issue that you need to find the solution for that. 
+There are a variety of churn model proposals. However, it is not important the churn must do like this or like that. The importance is what is your question, your business issue that you need to find the solution. 
 
 In this project, I would like to propose a simple churn model that support you in alert, provide the notification that which customer need contacting by long time without action, and this also means that the customer is nearly going to churn.
 

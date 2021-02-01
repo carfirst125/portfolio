@@ -14,7 +14,15 @@ Predicting when customer returns is very important. This supports you in decidin
 
 #### ML Model
 
+The supervised model will be used to do the next purchase forecast. So it has to have the features and label for supervised model train.
+
+Depend on the attribute of product and industry, the SPLIT TIME is declared before the max-date of data for create the label.
+
+Eg. in food an beverage, the SPLIT TIME could be from one to two monthes back. However, in the fashion industry, the SPLIT TIME might be longer from three to six monthes back from the max-date of data.
+
+
 * Model for customer with only on purchase
+
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-train.png?raw=true)
 
@@ -42,6 +50,6 @@ The Label is the first transaction of customer after SPLIT TIME. Of cource, the 
 
 #### Output
 
-Data out could be as below, including the day model run (current day), the next purchasing day forecast following by the error range, and confident score of the forecast result. 
+Data out could be shown as below, including the day when the forecast runs (current day), the next purchasing date forecast result following by the error range, and confident score respectively. 
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/output.png?raw=true)

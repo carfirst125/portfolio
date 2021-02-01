@@ -16,7 +16,7 @@ The Exploratory Data Analysis (EDA) is the crucial steps that let you understand
 
 This begins with finding ourliers and get rid of unreal accounts. For example, common accounts record data of multicustomer instead of a particular customer should be eliminated. Accounts that has the actual high frequency abnormally also need to be ignored. In short, the accounts, which are not real as the transaction of a customer, should be abandoned to prevent the bias.
 
-Example: The figure below shows the EDA result for customer purchasing frequency. The customer is grouped by **one purchased customer**, **two or more purchased customer**, and **abnormal/weird customer**. Based on your understanding in the business, you can define the rules for classifying abnormal customers. For instances, in this case of shoes and hand bag product, the customer who had more than 200 times of purchasing in data period or having purchase every 4 days, or having 3 purchases per day, will be considered as abnormal one. 
+**Example:** The figure below shows the EDA result for customer purchasing frequency. The customer is grouped by **one purchased customer**, **two or more purchased customer**, and **abnormal/weird customer**. Based on your understanding in the business, you can define the rules for classifying abnormal customers. For instances, in this case of shoes and hand bag product, the customer who had more than 200 times of purchasing in data period or having purchase every 4 days, or having 3 purchases per day, will be considered as abnormal one. 
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/EDA.png?raw=true" width="600"/>
 
@@ -29,7 +29,7 @@ Depend on the attribute of product and industry, the SPLIT TIME is declared befo
 Eg. in food an beverage, the SPLIT TIME could be from one to two monthes back. However, in the fashion industry, the SPLIT TIME might be longer from three to six monthes back from the max-date of data.
 
 
-* Model for customer with only one purchase
+* **Model for customer with only one purchase**
 
 There are no more criteria for new customers with only one purchase, that the model can learn to infer the next purchasing. The model used for one purchasing customer is trained by the data of 2 purchasing customers. 
 

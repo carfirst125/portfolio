@@ -54,7 +54,7 @@ The label is the time distance from the last purchase before SPLIT TIME and firs
 
 If you use LSTM model, the features might be **[monetary amount, type of customer (vip/normal), purchase channel, gender] by time series**
 
-The Label is the first transaction of customer after SPLIT TIME. Of cource, the label is in the sequence in time series marked where customer makes purchasing.
+The Label is the first transaction of customer after SPLIT TIME. Of course, the label is in the sequence in time series marked where customer makes purchasing.
 
 #### Output
 

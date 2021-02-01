@@ -7,3 +7,5 @@
 2. AWS Personalize Recommendation (User Personalization, Personalized Ranking, SIMS)
 
 3. Churn Notification (Alert, Critical, Churn Signal)
+
+4. Next Purchasing Forecast

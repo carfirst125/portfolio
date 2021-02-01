@@ -14,7 +14,7 @@ This is the simple block digram of train and query model.
 
 The Exploratory Data Analysis (EDA) is the crucial steps that let you understand the data, therefore having relevant solution including choosing machine learning algorithm and features. 
 
-This begin with finding ourliers and get rid of unreal accounts.
+This begins with finding ourliers and get rid of unreal accounts. For example, common accounts record data of multicustomer instead of a particular customer should be eliminated. Accounts that has the actual high frequency abnormally also need to be ignored. In short, the accounts, which are not real as the transaction of a customer, should be abandoned to prevent the bias.
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/EDA.png?raw=true)
 

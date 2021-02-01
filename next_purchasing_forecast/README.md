@@ -35,7 +35,7 @@ There are no more criteria for new customers with only one purchase, that the mo
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-train.png?raw=true)
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-predict.png?raw=true)
+![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-predict.png?raw=true){ width=50% }
 
 * Model for customer with 2 purchased or more
 

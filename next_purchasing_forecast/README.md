@@ -14,13 +14,13 @@ Predicting when customer returns is very important. This supports you in decidin
 
 #### ML Model
 
-##### Model for customer with only on purchase
+* Model for customer with only on purchase
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-train.png?raw=true)
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-predict.png?raw=true)
 
-##### Model for customer with 2 purchased or more
+* Model for customer with 2 purchased or more
 
 The model, used to predict customers which have two purchases or more, is trained by customer having at least three purchases.
 When preparing data for Train, the SPLIT TIME is choosen as the the current time. The transaction data after the SPLIT TIME can be processed for the label.

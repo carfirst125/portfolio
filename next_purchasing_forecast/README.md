@@ -38,10 +38,10 @@ The label is the time distance from the last purchase before SPLIT TIME and firs
 
 If you use LSTM model, the features might be **[monetary amount, type of customer (vip/normal), purchase channel, gender] by time series**
 
-The Label is the First transaction of customer after SPLIT TIME. Of cource, the monetary also is marked by time series too.
+The Label is the first transaction of customer after SPLIT TIME. Of cource, the label is in the sequence in time series marked where customer makes purchasing.
 
 #### Output
 
-Data out could be as below.
+Data out could be as below, including the day model run (current day), the next purchasing day forecast following by the error range, and confident score of the forecast result. 
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/output.png?raw=true)

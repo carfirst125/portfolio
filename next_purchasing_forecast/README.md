@@ -33,9 +33,9 @@ Eg. in food an beverage, the SPLIT TIME could be from one to two monthes back. H
 
 There are no more criteria for new customers with only one purchase, that the model can learn to infer the next purchasing. The model used for one purchasing customer is trained by the data of 2 purchasing customers. 
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-train.png?raw=true)
+<img src="https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-train.png?raw=true" width="600"/>
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-predict.png?raw=true){ width=50% }
+<img src="https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-predict.png?raw=true" width="600"/>
 
 * Model for customer with 2 purchased or more
 

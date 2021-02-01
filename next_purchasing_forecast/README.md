@@ -35,7 +35,10 @@ The label is the time distance from the last purchase before SPLIT TIME and firs
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/gt2pur-cus-predict.png?raw=true)
 
+
 If you use LSTM model, the features might be **[monetary amount, type of customer (vip/normal), purchase channel, gender] by time series**
+
+The Label is the First transaction of customer after SPLIT TIME. Of cource, the monetary also is marked by time series too.
 
 #### Output
 

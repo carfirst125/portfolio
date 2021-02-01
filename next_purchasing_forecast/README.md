@@ -8,7 +8,7 @@ Predicting when customer returns to purchase is very important. This forecast su
 
 This is the simple block digram of train and query model.
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/Overview.png?raw=true){:height="36px" width="36px"}.
+![alt text][<img src="image.png" width="250"/>](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/Overview.png?raw=true)
 
 #### EDA 
 

@@ -18,7 +18,7 @@ This begins with finding ourliers and get rid of unreal accounts. For example, c
 
 Example: The figure below shows the EDA result for customer purchasing frequency. The customer is grouped by **one purchased customer**, **two or more purchased customer**, and **abnormal/weird customer**. Based on your understanding in the business, you can define the rules for classifying abnormal customers. For instances, in this case of shoes and hand bag product, the customer who had more than 200 times of purchasing in data period or having purchase every 4 days, or having 3 purchases per day, will be considered as abnormal one. 
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/EDA.png?raw=true)
+<img src="https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/EDA.png?raw=true" width="600"/>
 
 #### ML Model
 

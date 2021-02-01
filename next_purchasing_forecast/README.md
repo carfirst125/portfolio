@@ -2,13 +2,19 @@
 
 #### Overview
 
-Predicting when customer returns is very important. This supports you in deciding which group of customers prior to interact, based on forecasting of their return day.
+Predicting when customer returns to purchase is very important. This forecast supports in deciding which group of customers priors to interact, based on anticipating their next purchasing date.
 
 #### General Block Diagram
+
+This is the simple block digram of train and query model.
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/Overview.png?raw=true)
 
 #### EDA 
+
+The Exploratory Data Analysis (EDA) is the crucial steps that let you understand the data, therefore having relevant solution including choosing machine learning algorithm and features. 
+
+This begin with finding ourliers and get rid of unreal accounts.
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/EDA.png?raw=true)
 
@@ -16,7 +22,7 @@ Predicting when customer returns is very important. This supports you in decidin
 
 The supervised model will be used to do the next purchase forecast. So it has to have the features and label for supervised model train.
 
-Depend on the attribute of product and industry, the SPLIT TIME is declared before the max-date of data for create the label.
+Depend on the attribute of product and industry, the SPLIT TIME is declared before the max-date of data for creating the label.
 
 Eg. in food an beverage, the SPLIT TIME could be from one to two monthes back. However, in the fashion industry, the SPLIT TIME might be longer from three to six monthes back from the max-date of data.
 

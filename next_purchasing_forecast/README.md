@@ -48,10 +48,9 @@ The chart below is an example of using traditional model. The features engineeri
 
 The label is the time distance from the last purchase before SPLIT TIME and first purchase after SPLIT TIME.
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/gt2pur-cus-train.png?raw=true)
+<img src="https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/gt2pur-cus-train.png?raw=true" width="600"/>
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/gt2pur-cus-predict.png?raw=true)
-
+<img src="https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/gt2pur-cus-predict.png?raw=true" width="600"/>
 
 If you use LSTM model, the features might be **[monetary amount, type of customer (vip/normal), purchase channel, gender] by time series**
 

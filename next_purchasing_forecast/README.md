@@ -29,8 +29,9 @@ Depend on the attribute of product and industry, the SPLIT TIME is declared befo
 Eg. in food an beverage, the SPLIT TIME could be from one to two monthes back. However, in the fashion industry, the SPLIT TIME might be longer from three to six monthes back from the max-date of data.
 
 
-* Model for customer with only on purchase
+* Model for customer with only one purchase
 
+There are no more criteria for new customers with only one purchase, that the model can learn to infer the next purchasing. The model used for one purchasing customer is trained by the data of 2 purchasing customers. 
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/onepur-cus-train.png?raw=true)
 

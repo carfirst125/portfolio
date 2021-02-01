@@ -61,3 +61,11 @@ The Label is the first transaction of customer after SPLIT TIME. Of cource, the 
 Data out could be shown as below, including the day when the forecast runs (current day), the next purchasing date forecast result following by the error range, and confident score respectively. 
 
 ![alt text](https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/output.png?raw=true)
+
+- - - - - 
+Feeling Free to contact me if you have any question around.
+
+    Nhan Thanh Ngo
+    Email: ngothanhnhan125@gmail.com
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052

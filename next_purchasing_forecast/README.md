@@ -24,7 +24,7 @@ This begins with finding outliers and gets rid of unreal customer accounts. For 
 
 The supervised model will be used to do the next purchase forecast. So the input features and label are neccesary for supervised model train.
 
-Depending on the attributes of product and business industry, the **SPLIT TIME** is declared. The **SPLIT TIME** is the date before the the last date of data. **SPLIT TIME** is applied for purpose of creating the model label. (Eg. in food and beverage, the **SPLIT TIME** could be from one to two monthes back. However, in the fashion industry, the SPLIT TIME might be longer from three to six monthes back from the max-date of data.)
+Depending on the attributes of product and business industry, the **SPLIT TIME** is declared. The **SPLIT TIME** is the date before the the last date of data. **SPLIT TIME** is applied for purpose of creating the model label. (Eg. in food and beverage, the **SPLIT TIME** could be one or two months back. However, in the fashion industry, the SPLIT TIME might be longer from three to six months back from the last date in data.)
 
 * **Model for customer with only one purchase**
 
@@ -36,14 +36,14 @@ There are no more criteria for new customers with only one purchase, that the mo
 
 * Model for customer with 2 purchased or more
 
-The model, used to predict customers which have two purchases or more, is trained by customer having at least three purchases.
-When preparing data for Train, the SPLIT TIME is choosen as the the current time. The transaction data after the SPLIT TIME can be processed for the label.
+The model, used to predict customers which have two purchases or more, is trained by customers having at least three purchases.
+When preparing data for Train, the SPLIT TIME is chosen and used as the supposed current time. The transaction data after the SPLIT TIME can be processed for the label.
 
-Depend on the model that you use (traditional model or time series), the feature engineering is implemented.
+Depending on the kind of algorithm you use (traditional or time series), the feature engineering is implemented in different way.
 
-The chart below is an example of using traditional model. The features engineering of the model could be **[average purchase distance, standard deviation of purchase distances, recency, monetary, gender, type of customer (vip/normal), purchase channel]**
+The below chart is an example of using traditional model. The input features of the model could be **[average purchase distance, standard deviation of purchase distances, recency, monetary, gender, type of customer (vip/normal), purchase channel]**
 
-The label is the time distance from the last purchase before SPLIT TIME and first purchase after SPLIT TIME.
+The label is the time distance between two contineous purchases, the last purchase before SPLIT TIME and first purchase after SPLIT TIME.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/next_purchasing_forecast/images/gt2pur-cus-train.png?raw=true" width="600"/>
 
@@ -51,7 +51,7 @@ The label is the time distance from the last purchase before SPLIT TIME and firs
 
 If you use LSTM model, the features might be **[monetary amount, type of customer (vip/normal), purchase channel, gender] by time series**
 
-The Label is the first transaction of customer after SPLIT TIME. Of course, the label is in the sequence in time series marked where customer makes purchasing.
+The label is also marked in time series or the same as above for the first transaction of customer after SPLIT TIME.
 
 #### Output
 

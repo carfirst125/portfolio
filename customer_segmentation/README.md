@@ -46,3 +46,16 @@ Each pie chart performs the statistics of segment product purchased by customer 
 Finally, we need to know which customer in which segment. The result can be as below.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/customer_segmentation/images/customer_in_segment.png?raw=true"/>
+
+### Example Code
+
+You can refer the code in "./code" folder for advance.
+
+- - - - - 
+Feeling Free to contact me if you have any question around.
+
+    Nhan Thanh Ngo
+    Email: ngothanhnhan125@gmail.com
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052
+

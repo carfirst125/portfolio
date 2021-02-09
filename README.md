@@ -1,6 +1,6 @@
 # portfolio
 
-### AI Application
+### AI|ML Application
 
 1. Collaborative Filtering Recommendation (User-based, Item-based Method)
 

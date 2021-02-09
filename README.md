@@ -9,3 +9,5 @@
 3. Churn Notification (Alert, Critical, Churn Signal)
 
 4. Next Purchasing Forecast
+
+5. Customer Segmentation by Product

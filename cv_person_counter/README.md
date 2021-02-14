@@ -20,6 +20,6 @@ First, data
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/oYkED5rL1X8)
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/carfirst125/portfolio/blob/main/cv_person_counter/video/video_out_DEMO01.mp4" type="video/mp4">
+  <source src="https://youtu.be/oYkED5rL1X8" type="video/mp4">
 </video>
 

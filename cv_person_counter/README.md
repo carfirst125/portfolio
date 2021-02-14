@@ -17,4 +17,4 @@ First, data
 
 #### Implementation DEMO
 
-[![Demo Person Counter](https://i9.ytimg.com/vi/oYkED5rL1X8/mq3.jpg?sqp=CPSFooEG&rs=AOn4CLCwpCTriDisRvP3Bf32MdB6edAnNAf)](https://youtu.be/oYkED5rL1X8)
+[![Demo Person Counter](https://youtu.be/oYkED5rL1X8)](https://i9.ytimg.com/vi/oYkED5rL1X8/mq3.jpg?sqp=CPSFooEG&rs=AOn4CLCwpCTriDisRvP3Bf32MdB6edAnNAf)

@@ -16,7 +16,7 @@
 
 Just several DEMO Projects, for more insights, please contact me!
 
-    Nhan Thanh Ngo
+    Nhan Thanh Ngo (MBA, MSc, BE)
     Email: ngothanhnhan125@gmail.com
     Skype: ngothanhnhan125
     Phone: (+84) 938005052

@@ -17,11 +17,4 @@ First, data
 
 #### Implementation DEMO
 
-[![Demo Person Counter](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/oYkED5rL1X8)
-
-
-
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/oYkED5rL1X8" type="video/mp4">
-</video>
-
+[![Demo Person Counter](https://i9.ytimg.com/vi/oYkED5rL1X8/mq3.jpg?sqp=CPSFooEG&rs=AOn4CLCwpCTriDisRvP3Bf32MdB6edAnNAf)](https://youtu.be/oYkED5rL1X8)

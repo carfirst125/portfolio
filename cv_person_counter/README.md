@@ -23,7 +23,7 @@ First, data
 
 
 
-[![DEMO](https://img.youtube.com/vi/oYkED5rL1X8/sddefault.jpg)](https://youtu.be/oYkED5rL1X8)
+[![DEMO](https://img.youtube.com/vi/oYkED5rL1X8/maxresdefault.jpg)](https://youtu.be/oYkED5rL1X8)
 
 
 

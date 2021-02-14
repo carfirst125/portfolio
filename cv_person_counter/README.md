@@ -13,12 +13,27 @@ This is the block diagram expresses the project flow.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/cv_person_counter/image/cv_person_counter_BlockDiagram.png?raw=true"/>
 
-First, data
+The data will be got from Camera IP, splits into frame, implements some data processing such as Color Conversion, Image resizing before Object Detection.
 
-#### Implementation DEMO
+The **YOLOv3** is used in this demo project for Object Detection. Here, that is human object. The YOLOv3 already trained with human detection, so dont need to retrain, just load the model and its weights and apply. 
 
+**Deep Sort** is a extreme powerful algorithm for Object Tracking. This permits you to track an object via multi-frame of video. This helps you in tracking moving path of the object. It is the foundation for you to analyse, count and process to consult who enters the store.
+
+
+#### Implemetation DEMO
 
 [![DEMO](https://img.youtube.com/vi/oYkED5rL1X8/mqdefault.jpg)](https://youtu.be/watch?v=oYkED5rL1X8)
+
+#### Play around
+
+Step 1: Clone the project
+
+Step 2: Extract code.rar in the same folder
+
+Step 3: Download YoLo Model at http://bit.ly/37aefvK, extract and copy-paste ./model_data folder under ./code folder.
+       
+        
+
 
 
 

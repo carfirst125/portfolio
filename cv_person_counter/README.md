@@ -24,7 +24,6 @@ First, data
 
 
 
-<iframe width="1280" height="720" src="https://youtu.be/oYkED5rL1X8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe
     src="https://youtu.be/oYkED5rL1X8"

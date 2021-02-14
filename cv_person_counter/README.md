@@ -20,6 +20,7 @@ The **YOLOv3** is used in this demo project for Object Detection. Here, that is 
 
 **Deep Sort** is a extreme powerful algorithm for Object Tracking. This permits you to track an object via multi-frame of video. This helps you in tracking moving path of the object. It is the foundation for you to analyse, count and process to consult who enters the store.
 
+The checker is important function in this project. You need to check the Object is Customer or Staff and they Enter/Get Out Store. In this project, the solution also is approached.
 
 #### Implemetation DEMO
 

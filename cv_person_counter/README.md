@@ -33,7 +33,7 @@ The **YOLOv3** is used in this demo project for Object Detection. Here, that is 
 
 **Step 3**: Download YoLo Model at http://bit.ly/37aefvK , extract and copy-paste ./model_data folder under ./code folder.
        
-**Step 4**: Put your input video under ./ video folder with name *input_video.mp4*. You need to change checker (rule for check person entering store) in person_counter_1_3.py to count. For sample input video, please email me.
+**Step 4**: Put your input video under *./video folder* with name *input_video.mp4*. You need to change checker (rule for checking if a person entered store) in person_counter_1_3.py to count. For sample input video, please email me.
 
 **Step 5**: Open Pycharm, create new project, create env with python=3.7 and *pip install -r requirements.txt* 
 

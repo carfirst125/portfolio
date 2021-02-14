@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Personal Counter (Computer Vision)
 </h1>
@@ -26,11 +27,17 @@ The **YOLOv3** is used in this demo project for Object Detection. Here, that is 
 
 #### Play around
 
-Step 1: Clone the project
+**Step 1**: Clone the project
 
-Step 2: Extract code.rar in the same folder
+**Step 2**: Extract code.rar in the same folder
 
-Step 3: Download YoLo Model at http://bit.ly/37aefvK, extract and copy-paste ./model_data folder under ./code folder.
+**Step 3**: Download YoLo Model at http://bit.ly/37aefvK , extract and copy-paste ./model_data folder under ./code folder.
+       
+**Step 4**: Download sample input data at http://bit.ly/3pkIIgP , copy file to ./video folder
+
+**Step 5**: Open Pycharm, create new project, create env with python=3.7 and *pip install -r requirements.txt* 
+
+**Step 6**: Run command: *python person_counter_1_3.py*
        
         
 

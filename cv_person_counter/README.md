@@ -25,7 +25,7 @@ The **YOLOv3** is used in this demo project for Object Detection. Here, that is 
 
 [![DEMO](https://img.youtube.com/vi/oYkED5rL1X8/mqdefault.jpg)](https://youtu.be/watch?v=oYkED5rL1X8 "Click to view")
 
-Click to view
+*(click to view)*
 
 #### Play around
 

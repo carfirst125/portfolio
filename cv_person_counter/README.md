@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Personal Counter (Computer Vision)
+  Person Counter (Computer Vision)
 </h1>
 
 

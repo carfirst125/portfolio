@@ -11,3 +11,5 @@
 4. Next Purchasing Forecast
 
 5. Customer Segmentation by Product
+
+6. Person Counter (Computer Vision)

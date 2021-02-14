@@ -12,3 +12,12 @@ This project performs how to count number of person entering the store using Com
 This is the block diagram expresses the project flow.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/cv_person_counter/image/cv_person_counter_BlockDiagram.png?raw=true"/>
+
+First, data
+
+#### Implementation DEMO
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/carfirst125/portfolio/blob/main/cv_person_counter/video/video_out_DEMO01.mp4.mp4" type="video/mp4">
+</video>
+

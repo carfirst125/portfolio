@@ -37,7 +37,7 @@ The checker is important function in this project. You need to check the Object 
 
 **Step 3**: Download YoLo Model at http://bit.ly/37aefvK , extract and copy-paste ./model_data folder under ./code folder.
        
-**Step 4**: Put your input video under *./video folder* with name *input_video.mp4*. You need to change checker (rule for checking if a person entered store) in person_counter_1_3.py to count. For sample input video, please email me.
+**Step 4**: Download the sample input data at http://bit.ly/3tWYbak, then put your the input_video.mp4 file under *./video folder*. For another video, you need to change checker (rule for checking if a person entered store) in person_counter_1_3.py to count.
 
 **Step 5**: Open Pycharm, create new project, create env with python=3.7 and *pip install -r requirements.txt* 
 

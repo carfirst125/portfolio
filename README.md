@@ -9,7 +9,7 @@ My guildline for MLAI technical flow demonstration
 
 [abc] (./churn_notification)
 
-[link ne] (https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management)
+[link ne] (www.google.com)
 
 ### AI|ML Application 
 

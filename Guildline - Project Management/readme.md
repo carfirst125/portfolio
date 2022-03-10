@@ -23,18 +23,18 @@ Those are discussed significantly and noted into the **Project Charter** which a
 
 PM conducts the first project meeting as known as kick-off meeting with team, stakeholder and sponsor to share project vision, goals, scope and understanding individual roles.
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Planning.png" width="65%" height="65%" alt="project planning">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Planning.png" width="70%" height="70%" alt="project planning">
 
 #### Project Executing
 
 Input is ITEM_ID. The model returns list of ITEM_IDs which are highest correlation with the input ITEM_ID (no User behavior reference)
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Executing.png" width="65%" height="65%" alt="project executing">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Executing.png" width="75%" height="75%" alt="project executing">
 
 #### Project Closing
 
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Closing.png" width="65%" height="65%" alt="project closing">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Closing.png" width="75%" height="75%" alt="project closing">
 
 - - - - - 
 Feeling Free to contact me if you have any question around.

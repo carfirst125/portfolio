@@ -35,7 +35,7 @@ During executing phase, the PM continuous tracking the progress of project to be
 
 #### Project Closing
 
-For closing the project, the project needs launching and landing to evaluate the success criteria.
+Before closing the project, the project needs launching and landing to evaluate the success criteria.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Closing.png" width="75%" height="75%" alt="project closing">
 

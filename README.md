@@ -17,7 +17,7 @@ My guildline/illustration for project management expertise
 
 6. Person Counter (Computer Vision)
 
-Just several DEMO Projects, for more insights, please contact me!
+Just several DEMO Projects. For more insights, please contact me.
 
     Nhan Thanh Ngo (MBA/MSc/BE)
     Email: ngothanhnhan125@gmail.com

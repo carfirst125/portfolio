@@ -1,13 +1,15 @@
 # portfolio
-### Project Management
+### Project Management 
 
-My guildline/illustration for project management expertise --> _refer_ [Guildline - Project Management](https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management)
+My guildline for project management --> _refer_ [Guildline - Project Management](https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management)
 
-### AI|ML Project - Technical Flow
+### ML/AI Project
 
-My guildline for MLAI technical flow demonstration --> _refer_ [Applied MLAI Project - Technical Flow](https://github.com/carfirst125/portfolio/tree/main/Applied%20MLAI%20Project%20-%20Technical%20Flow) 
+My guildline for MLAI technical flow --> _refer_ [Applied MLAI Project - Technical Flow](https://github.com/carfirst125/portfolio/tree/main/Applied%20MLAI%20Project%20-%20Technical%20Flow) 
 
-### AI|ML Application 
+Essential Data Science concepts, theories, and algorithms --> _refer_
+
+### Applied ML/AI Projects [DEMO]
 
 1. Collaborative Filtering Recommendation (User-based, Item-based Method)  --> _refer_ [Collaborative Recommendation System](https://github.com/carfirst125/portfolio/tree/main/collaborative_recommendation_system) 
 

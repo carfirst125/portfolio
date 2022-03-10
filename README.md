@@ -9,7 +9,7 @@ My guildline for MLAI technical flow demonstration
 
 [abc] (./churn_notification)
 
-[link ne] (www.google.com)
+[link ne] (www.google.com "abc")
 
 ### AI|ML Application 
 

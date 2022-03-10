@@ -22,17 +22,20 @@ Those are discussed significantly and noted into the **Project Charter** which a
 #### Project Planning 
 
 PM conducts the first project meeting as known as kick-off meeting with team, stakeholder and sponsor to share project vision, goals, scope and understanding individual roles.
+PM working with project team to complete milestones, tasks and schedule for the project.
+Besides, PM needs to have plan for the budget estimation, risk management, procurement process, communication plan and needed working to put the project under the control and meet the expectation.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Planning.png" width="70%" height="70%" alt="project planning">
 
 #### Project Executing
 
-Input is ITEM_ID. The model returns list of ITEM_IDs which are highest correlation with the input ITEM_ID (no User behavior reference)
+During executing phase, the PM continuous tracking the progress of project to be ensure everything is on the way.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Executing.png" width="75%" height="75%" alt="project executing">
 
 #### Project Closing
 
+For closing the project, the project needs launching and landing to evaluate the success criteria.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Closing.png" width="75%" height="75%" alt="project closing">
 

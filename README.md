@@ -23,7 +23,7 @@ My guildline for MLAI technical flow demonstration
 
 Just several DEMO Projects. For more insights, please contact me.
 
-    Nhan Thanh Ngo (MBA/MSc/BEng.)
+    Nhan Thanh Ngo (MBA/MSc/BE)
     Email: ngothanhnhan125@gmail.com
     Skype: ngothanhnhan125
     Phone: (+84) 938005052

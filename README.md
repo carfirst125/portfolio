@@ -7,7 +7,7 @@ My guildline/illustration for project management expertise
 
 My guildline for MLAI technical flow demonstration
 
-### AI|ML Application DEMO 
+### AI|ML Application 
 
 1. Collaborative Filtering Recommendation (User-based, Item-based Method)
 

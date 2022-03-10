@@ -17,7 +17,7 @@ In the project initiating, project manager (PM) gets the project request/proposa
 PM needs to work closely with the stakeholders to clarify Objectives, Goals, Scope, Delivarables and Timeline of the project.
 Those are discussed significantly and noted into the Project Charter which aligned among stakeholders.
 
-![alt text](https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Initiating.png?raw=true&width=10&height=10)
+![alt text]<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Initiating.png" width="10" height="10">
 
 #### Personalized Ranking (Reranking)
 

@@ -5,7 +5,7 @@ My guildline/illustration for project management expertise
 
 ### AI|ML Project - Technical Flow
 
-My guildline for MLAI technical flow demonstration
+My guildline for MLAI technical flow demonstration [link ne] https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management
 
 ### AI|ML Application 
 

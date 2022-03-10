@@ -1,4 +1,7 @@
 # portfolio
+### Project Management
+
+My guildline/illustration for project management expertise
 
 ### AI|ML Application 
 

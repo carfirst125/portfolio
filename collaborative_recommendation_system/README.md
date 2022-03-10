@@ -75,6 +75,12 @@ The product tree usually has some levels from categories to sub-categories and S
 
 Based on your insight in the industry, defining the suitable strategies in choosing which data will be used to analyze. For example, in this case study, you can choose sub-categories of product name for analysis, then lookup for SKU/Product ID if needing to recommend by product ID. 
 
+- - - - - 
+Feeling Free to contact me if you have any question around.
 
+    Nhan Thanh Ngo (Mr.)
+    Email: ngothanhnhan125@gmail.com
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052
 
 

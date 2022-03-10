@@ -7,8 +7,6 @@ My guildline for project management --> _refer_ [Guildline - Project Management]
 
 My guildline for MLAI technical flow --> _refer_ [Applied MLAI Project - Technical Flow](https://github.com/carfirst125/portfolio/tree/main/Applied%20MLAI%20Project%20-%20Technical%20Flow) 
 
-Essential Data Science concepts, theories, and algorithms --> _refer_
-
 ### Applied ML/AI Projects [DEMO]
 
 1. Collaborative Filtering Recommendation (User-based, Item-based Method)  --> _refer_ [Collaborative Recommendation System](https://github.com/carfirst125/portfolio/tree/main/collaborative_recommendation_system) 

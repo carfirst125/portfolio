@@ -42,7 +42,7 @@ Before closing the project, the project needs launching and landing to evaluate 
 - - - - - 
 Feeling Free to contact me if you have any question around.
 
-    Nhan Thanh Ngo
+    Nhan Thanh Ngo (Mr.)
     Email: ngothanhnhan125@gmail.com
     Skype: ngothanhnhan125
     Phone: (+84) 938005052

@@ -39,6 +39,17 @@ Before closing the project, the project needs launching and landing to evaluate 
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Closing.png" width="75%" height="75%" alt="project closing">
 
+## Agile Project Management
+
+The above session expresses the traditional project management. This session delicates the Agile project management.
+
+#### Understanding the mindset of Agile
+
+#### Agile tools
+
+#### Scrum roles
+
+
 - - - - - 
 Feeling Free to contact me if you have any question around.
 

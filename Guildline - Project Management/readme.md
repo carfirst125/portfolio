@@ -11,7 +11,7 @@ Project management could be implemented through 4 major steps:
    * Project Closing
 
 
-#### Project Initiating
+### Project Initiating
 
 In the project initiating, project manager (PM) gets the project request/proposal from senior organization leader or company director board. 
 PM needs to work closely with the stakeholders to clarify Objectives, Goals, Scope, Delivarables and Timeline of the project.
@@ -19,7 +19,7 @@ Those are discussed significantly and noted into the **Project Charter** which a
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Initiating.png" width="60%" height="60%" alt="project initiating">
 
-#### Project Planning 
+### Project Planning 
 
 PM conducts the first project meeting as known as kick-off meeting with team, stakeholder and sponsor to share project vision, goals, scope and understanding individual roles.
 PM working with project team to complete milestones, tasks and schedule for the project.
@@ -27,13 +27,13 @@ Besides, PM needs to have plan for the budget estimation, risk management, procu
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Planning.png" width="70%" height="70%" alt="project planning">
 
-#### Project Executing
+### Project Executing
 
 During executing phase, the PM continuous tracking the progress of project to be ensure everything is on the way.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Executing.png" width="75%" height="75%" alt="project executing">
 
-#### Project Closing
+### Project Closing
 
 Before closing the project, the project needs launching and landing to evaluate the success criteria.
 
@@ -43,19 +43,19 @@ Before closing the project, the project needs launching and landing to evaluate 
 
 The above session expresses the traditional project management. This session delicates the Agile project management.
 
-#### Understanding the mindset of Agile
+### Understanding the mindset of Agile
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_mindset.png" width="75%" height="75%" alt="project closing">
 
-#### Agile tools
+### Agile tools
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_tools.png" width="75%" height="75%" alt="project closing">
 
-#### Scrum
+### Scrum
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum.png" width="50%" height="50%" alt="project closing">
 
-#### Scrum roles
+### Scrum roles
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum-roles.png" width="75%" height="75%" alt="project closing">
 

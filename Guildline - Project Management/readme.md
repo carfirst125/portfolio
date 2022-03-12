@@ -59,45 +59,45 @@ The above session expresses the traditional project management. This session del
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum-roles.png" width="75%" height="75%" alt="project closing">
 
-**Scrum Master**
+* **Scrum Master**
 
-Not presented as a boss
+      - Not presented as a boss
 
-Always ask “What can I help”
+      - Always ask “What can I help”
 
-Scrum Masters facilitate productivity and collaboration. 
+      - Scrum Masters facilitate productivity and collaboration. 
 
-Ensuring every team member's voice is heard and their input is addressed. 
+      - Ensuring every team member's voice is heard and their input is addressed. 
 
-Scrum Masters must coach team members on Scrum theory and application. 
+      - Scrum Masters must coach team members on Scrum theory and application. 
 
-Coaching is a skill that encourages dialogue and discussion over simply giving the answers directly.
+      - Coaching is a skill that encourages dialogue and discussion over simply giving the answers directly.
 
-Scrum Masters must be great communicators, particularly when it comes to stakeholders. 
+      - Scrum Masters must be great communicators, particularly when it comes to stakeholders. 
 
-Experienced in engaging with diverse stakeholders who may have competing perspectives and styles. 
+      - Experienced in engaging with diverse stakeholders who may have competing perspectives and styles. 
 
-Traits: Coaching, facilitation, organizational, Stakeholder management, leadership.
+    **Traits: _Coaching, facilitation, organizational, Stakeholder management, leadership._**
 
-**Product Owner**
+* **Product Owner**
 
-Continuously maximizes the value of the product delivered by Scrum Team.
+      - Continuously maximizes the value of the product delivered by Scrum Team.
 
-Helps the Scrum Team understand why their work matters within the overall goal and mission.
+      - Helps the Scrum Team understand why their work matters within the overall goal and mission.
 
-Priorities the Product Backlog to optimize delivery and value to customers.
+      - Priorities the Product Backlog to optimize delivery and value to customers.
 
-Ensures the Backlog is visible and transparent to all.
+      - Ensures the Backlog is visible and transparent to all.
 
-Makes sure the product or service fulfills the customers' needs.
+      - Makes sure the product or service fulfills the customers' needs.
 
-Traits: Customer-focused, decisive, flexible, optimistic and positive, available, collaborative.
+   **Traits: _Customer-focused, decisive, flexible, optimistic and positive, available, collaborative._**
 
-**Development Team**
+* **Development Team**
 
-Usually from 3 to 9 members, which are cross-funtions (may have a software developer, a marketing specialist, a quality assurance, and logistis expert)
+      - Usually from 3 to 9 members, which are cross-funtions (may have a software developer, a marketing specialist, a quality assurance, and logistis expert)
 
-Traits of team: cross functional, self-organizing, supportive, customer-oriented.
+    **Traits of team: _cross functional, self-organizing, supportive, customer-oriented._**
 
 - - - - - 
 Feeling Free to contact me if you have any question around.

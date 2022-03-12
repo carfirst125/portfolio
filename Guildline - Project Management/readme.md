@@ -45,10 +45,19 @@ The above session expresses the traditional project management. This session del
 
 #### Understanding the mindset of Agile
 
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_mindset.png" width="75%" height="75%" alt="project closing">
+
 #### Agile tools
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_tools.png" width="75%" height="75%" alt="project closing">
+
+#### Scrum
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum.png" width="75%" height="75%" alt="project closing">
 
 #### Scrum roles
 
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum-roles.png" width="75%" height="75%" alt="project closing">
 
 - - - - - 
 Feeling Free to contact me if you have any question around.

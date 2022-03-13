@@ -3,11 +3,20 @@
 
 My guildline for [Project Management](https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management)
 
+This guildline is used as my illustration for the project management expertise, including:
+   - How I manage the project in both methodologies, Traditional Waterfall and Agile.
+   - The essential project management template documents for reference.
+   - Agile project management with Scrum.
+
 ### ML/AI Project
 
 My guildline for [Applied MLAI project - Technical Flow](https://github.com/carfirst125/portfolio/tree/main/Applied%20MLAI%20Project%20-%20Technical%20Flow) 
 
+This guildline is used as my demonstration for the understanding in deploying a MLAI project under technical view.
+
 ### Applied ML/AI Projects [DEMO]
+
+Beside managing project, I also play a role as product owner. Below are some business issues and my MLAI solution for your reference.
 
 1. [Collaborative Filtering Recommendation (User-based, Item-based Method)](https://github.com/carfirst125/portfolio/tree/main/collaborative_recommendation_system) 
 

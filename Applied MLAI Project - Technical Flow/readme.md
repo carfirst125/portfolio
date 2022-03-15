@@ -79,8 +79,13 @@ Prediction is the operation of using trained model. The new input data will be f
 
 The diagram below shows the coding flow to implement the ML project. The flow includes two separate processes, TRAIN and PREDICT. The TRAIN process has responsibility for training model, evaluation and save versions, whereas PREDICT process loads trained model for using. 
 
-
 <img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/ML_coding_flow.png">
+
+## Details MLAI Implementation Flow as Reference
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/MLAI-Imp-Flow.png" width="60%" height="60%" alt="MLAI Imlementation Flow">
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/MLAI_StackingModel.png" width="60%" height="60%" alt="Stacking Model">
 
 - - - - - 
 Feeling free to contact me if you have any questions around.

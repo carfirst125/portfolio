@@ -112,4 +112,27 @@ Below is the CLV formula:
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_MLAI_CLVFomula.png" width="60%" height="60%" alt="CLV formula"/>
 
+The short-term margin is Net profit which a customer contributes for company monthly.
+The long-term Multiplier is customer lifetime (CL). It is calculated by discount rate ( ~ interest rate), and retention rate. It is straightforward to get that the CL is longer when retention rate is higher. 
+There are various type of churn, however, the customer lifetime could be refer to define churn.
+
+The churn rate and retention rate could be computed as below: 
+_Churn rate = (Total customer at end of month – total customer at begin of month – new customer in month)/total customer at begin of month
+Retention rate = 1 - churn rate_
+
+The CLV help us in having an estimate of our customer values. This supports in marketing budget estimation in getting new customer, or retention them.
+
+### Customer 360
+
+Based on various MLAI model and analysis around customer, we could provide a customer profile as known as Customer 360. Customer 360 shows all we understand about customer including original information to analysis result.
+
+_Figure 8: Customer Profile with significant analysis_
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_CUS360.png" width="60%" height="60%" alt="Customer360"/>
+
+### Summary
+
+There are many methods and MLAI applications that need applying to make the data-driven system become more powerful. The more powerful system is, the more it boosts sell. However, in this report, just several methods concentrating on customer analysis and understanding are presented. Some other application relates to customer experience and utilities such as Chatbot, Loyalty Program, Face Recognition, OCR, etc. could be considered.
+
+
 

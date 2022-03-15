@@ -110,7 +110,7 @@ Understand customer, adjust the product and service in the right way, which adap
 
 Below is the CLV formula:
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_MLAI_CLVFomula.png" width="60%" height="60%" alt="CLV formula"/>
+<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_MLAI_CLVFomula.png" width="40%" height="40%" alt="CLV formula"/>
 
 The short-term margin is Net profit which a customer contributes for company monthly.
 The long-term Multiplier is customer lifetime (CL). It is calculated by discount rate ( ~ interest rate), and retention rate. It is straightforward to get that the CL is longer when retention rate is higher. 

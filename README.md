@@ -1,18 +1,20 @@
 # portfolio
 ### Project Management 
 
-My guildline for [Project Management](https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management)
+1. My guildline for [Project Management](https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management)
 
 This guildline is used as my illustration for the project management expertise, including:
    - How I manage the project in both methodologies, Traditional Waterfall and Agile.
    - The essential project management template documents for reference.
    - Agile project management with Scrum.
 
-### ML/AI Project
-
-My guildline for [Applied MLAI project - Technical Flow](https://github.com/carfirst125/portfolio/tree/main/Applied%20MLAI%20Project%20-%20Technical%20Flow) 
+2. My guildline for [Applied MLAI project - Technical Flow](https://github.com/carfirst125/portfolio/tree/main/Applied%20MLAI%20Project%20-%20Technical%20Flow) 
 
 This guildline is used as my demonstration for the understanding in deploying a MLAI project under technical view.
+
+3. My guildline for [Business Data-driven System - Customer Oriented](https://github.com/carfirst125/portfolio/tree/main/Business%20Information%20System%20-%20Customer%20Orientation)
+
+This guildline for customer oriented business data-driven system which concentrates on collecting customer data, processing to get insights, automatically providing relevant interaction to customers.
 
 ### Applied ML/AI Projects [DEMO]
 

@@ -132,7 +132,7 @@ _Figure 8: Customer Profile with significant analysis_
 
 ### Summary
 
-There are many methods and MLAI applications that need applying to make the data-driven system become more powerful. The more powerful system is, the more it boosts sell. However, in this report, just several methods concentrating on customer analysis and understanding are presented. Some other application relates to customer experience and utilities such as Chatbot, Loyalty Program, Face Recognition, OCR, etc. could be considered.
+There are many methods and MLAI applications that need applying to make the data-driven system become more powerful. The more powerful system is, the more it boosts sell. However, in this report, just several methods concentrating on customer analysis and understanding are presented. Some other application relates to customer experience and utilities such as Chatbot, Loyalty Program, Face Recognition, OCR, etc. could be considered and discussed.
 
 
 

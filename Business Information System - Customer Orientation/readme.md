@@ -8,7 +8,7 @@ The data are collected to the data lake, and extracted into various data marts f
 
 _Figure 1: Customer Data Platform architecture_
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_CDP.png" width="90%" height="90%" alt="CDP">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_CDP.png" width="100%" height="100%" alt="CDP">
 
 The Dashboard plays an important role for staff users in getting insight, and making decision. The Dashboard update automatically daily for latest information showed in dashboard.
 
@@ -97,7 +97,7 @@ The Figure 7 shows what we can get from the social listening.
 
 _Figure 7: Social Listening_
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_MLAI_social_lis.png" width="80%" height="80%" alt="social listening"/>
+<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_MLAI_social_lis.png" width="90%" height="90%" alt="social listening"/>
 
 Social listening records the direct voice of customer to us. It supports in increasing customer relationship, getting what customer need, and opening the big chance for product and service adjustment to adapt the customers’ demand. Relevant product and service is important, because customer even has the demand, they also choose the competitors’ product by its appropriation.
 
@@ -128,7 +128,7 @@ Based on various MLAI model and analysis around customer, we could provide a cus
 
 _Figure 8: Customer Profile with significant analysis_
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_CUS360.png" width="60%" height="60%" alt="Customer360"/>
+<img src="https://github.com/carfirst125/portfolio/blob/main/Business%20Information%20System%20-%20Customer%20Orientation/figures/BIS_CUS360.png" width="50%" height="50%" alt="Customer360"/>
 
 ### Summary
 

@@ -45,19 +45,19 @@ The above session expresses the traditional project management. This session del
 
 ### Understanding the mindset of Agile
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_mindset.png" width="75%" height="75%" alt="project closing">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_mindset.png" width="75%" height="75%" alt="agile mindset">
 
 ### Agile tools
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_tools.png" width="75%" height="75%" alt="project closing">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Agile_tools.png" width="75%" height="75%" alt="agile tools">
 
 ### Scrum
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum.png" width="50%" height="50%" alt="project closing">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum.png" width="50%" height="50%" alt="scrum">
 
 ### Scrum roles
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum-roles.png" width="75%" height="75%" alt="project closing">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM2-Scrum-roles.png" width="75%" height="75%" alt="scrum roles">
 
 * **Scrum Master**
 

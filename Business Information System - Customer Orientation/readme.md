@@ -134,5 +134,11 @@ _Figure 8: Customer Profile with significant analysis_
 
 There are many methods and MLAI applications that need applying to make the data-driven system become more powerful. The more powerful system is, the more it boosts sell. However, in this report, just several methods concentrating on customer analysis and understanding are presented. Some other application relates to customer experience and utilities such as Chatbot, Loyalty Program, Face Recognition, OCR, etc. could be considered and discussed.
 
+- - - - - 
+Feeling Free to contact me if you have any question around.
 
+    Nhan Thanh Ngo (MBA/MSc/BE)
+    Email: ngothanhnhan125@gmail.com
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052
 

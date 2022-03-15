@@ -81,11 +81,12 @@ The diagram below shows the coding flow to implement the ML project. The flow in
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/ML_coding_flow.png">
 
-## Details MLAI Implementation Flow as Reference
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/MLAI-Imp-Flow.png" width="60%" height="60%" alt="MLAI Imlementation Flow">
+## REFERENCE: Details of MLAI Implementation Flow 
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/MLAI_StackingModel.png" width="60%" height="60%" alt="Stacking Model">
+<img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/MLAI-Imp-Flow.png" width="80%" height="80%" alt="MLAI Imlementation Flow">
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/Applied%20MLAI%20Project%20-%20Technical%20Flow/diagram/MLAI_StackingModel.png" width="70%" height="70%" alt="Stacking Model">
 
 - - - - - 
 Feeling free to contact me if you have any questions around.

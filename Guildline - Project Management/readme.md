@@ -100,9 +100,9 @@ The above session expresses the traditional project management. This session del
     **Traits of team: _cross functional, self-organizing, supportive, customer-oriented._**
 
 - - - - - 
-Feeling Free to contact me if you have any question around.
+Feeling free to contact me if you have any questions around.
 
-    Nhan Thanh Ngo (Mr.)
+    Nhan Thanh Ngo (MBA/MSc/BE)
     Email: ngothanhnhan125@gmail.com
     Skype: ngothanhnhan125
     Phone: (+84) 938005052

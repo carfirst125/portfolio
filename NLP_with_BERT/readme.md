@@ -25,3 +25,11 @@ BERT can be used for application such as:
 ## Understanding how BERT works
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/NLP_with_BERT/figures/MLAI_BERT_how_it_works.png" width="90%" height="90%" alt="BERT">
+
+- - - - - 
+Feeling free to contact me if you have any questions around.
+
+    Nhan Thanh Ngo (MBA/MSc/BE)
+    Email: ngothanhnhan125@gmail.com
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052

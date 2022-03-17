@@ -1,4 +1,4 @@
-## Data Visualization
+## Data Visualization with Tableau
 
 Data visualization is the vital part in data-driven business system. This is an essential part in managerial reports presented under the dashboards. 
 Through them, managers can monitor the business operation in realtime and make decision better.

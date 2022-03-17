@@ -24,6 +24,8 @@ BERT can be used for application such as:
 
 ## Understanding how BERT works
 
+The figure expresses the overview of BERT model architecture. This supports us in understanding how the BERT model is trained, and how to train our BERT model to use.
+
 <img src="https://github.com/carfirst125/portfolio/blob/main/NLP_with_BERT/figures/MLAI_BERT_how_it_works.png" width="90%" height="90%" alt="BERT">
 
 - - - - - 

@@ -9,13 +9,31 @@ In this demonstration, I would like to show you an story-telling data visualizat
 
 #### Introduction Page
 
-#### Category Overview
+This is the introduction page of the story Vietnam Stock Exchange Report, summaring which content will be discussed in the next dashboards.
 
-with Market Caps, and crucial finance indicators.
+<img src="https://github.com/carfirst125/portfolio/blob/main/data_visualization_Tableau/images/VNExchange.png" width="100%" height="100%" alt="story introduction"/>
 
-#### Category and Company Details shows list of companies in each category with filter support.
+#### Industries/Categories Overview
 
-#### Foreign Investment Map displays where foreign investors are investing in the exchange market.
+The marketing capital includes many industries. This dashboard shows the overall information of industries.
 
-#### Look up information of foreign investment room and status provides readers, especially who are having the intent to invest to Vietnam Exchange market, information about investment room approved for foreign investors, how the room was covered, and how many it still opens for others.
+<img src="https://github.com/carfirst125/portfolio/blob/main/data_visualization_Tableau/images/tableau-1.png" width="100%" height="100%" alt="story dashboard"/>
+
+#### Industries and Companies Financial information
+
+This dashboard permits audience revealing more details financial information of companies in industry.
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/data_visualization_Tableau/images/tableau-2.png" width="100%" height="100%" alt="story dashboard"/>
+
+#### Foreign Investment Map 
+
+This dashboard displays where foreign investors are investing in the exchange market.
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/data_visualization_Tableau/images/tableau-3.png" width="100%" height="100%" alt="story dashboard"/>
+
+#### Information of foreign investment room and status look-up
+
+This dashboard provides readers, especially who are having the intent to invest to Vietnam Exchange market, information about investment room approved for foreign investors, how the room was covered, and how many it still opens for others.
+
+<img src="https://github.com/carfirst125/portfolio/blob/main/data_visualization_Tableau/images/tableau-4.png" width="100%" height="100%" alt="story dashboard"/>
 

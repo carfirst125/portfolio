@@ -37,3 +37,12 @@ This dashboard provides readers, especially who are having the intent to invest 
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/data_visualization_Tableau/images/tableau-4.png" width="100%" height="100%" alt="story dashboard"/>
 
+Link to Tableau file: [Vietnam Stock Exchange - Tableau](https://public.tableau.com/app/profile/nhan3988/viz/VietnamExchanges2019/VietnamExchangeFormalReport2019)
+
+- - - - - 
+Feeling free to contact me if you have any questions around.
+
+    Nhan Thanh Ngo (MBA/MSc/BE)
+    Email: ngothanhnhan125@gmail.com
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052

@@ -28,6 +28,11 @@ The figure expresses the overview of BERT model architecture. This supports us i
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/NLP_with_BERT/figures/MLAI_BERT_how_it_works.png" width="90%" height="90%" alt="BERT">
 
+## How to use BERT with code
+
+Please refer the application "[Sentiment Prediction (POSITIVE/NEGATIVE) for customer commment sentence](https://github.com/carfirst125/portfolio/blob/main/NLP_with_BERT/BERT_tfhub_classify_text_v2.ipynb)" for your imagine how BERT is applied in your MLAI application.
+The pretrained BERT model is used in this code.
+
 - - - - - 
 Feeling free to contact me if you have any questions around.
 

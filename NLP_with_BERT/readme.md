@@ -24,4 +24,4 @@ BERT can be used for application such as:
 
 ## Understanding how BERT works
 
-<img src="https://github.com/carfirst125/portfolio/blob/main/NLP_with_BERT/figures/BERT_how_it_works.png" width="100%" height="100%" alt="CDP">
+<img src="https://github.com/carfirst125/portfolio/blob/main/NLP_with_BERT/figures/MLAI_BERT_how_it_works.png" width="90%" height="90%" alt="BERT">

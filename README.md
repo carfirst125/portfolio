@@ -34,6 +34,8 @@ Beside managing project, I also play a role as product owner. Below are some bus
 
 7. [NLP with BERT](https://github.com/carfirst125/portfolio/tree/main/NLP_with_BERT)
 
+8. [Data visualization - Tableau](https://github.com/carfirst125/portfolio/tree/main/data_visualization_Tableau)
+
 Just several DEMO Projects. For more insights, please contact me.
 
     Nhan Thanh Ngo (MBA/MSc/BE)

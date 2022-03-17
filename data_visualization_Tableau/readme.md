@@ -37,7 +37,10 @@ This dashboard provides readers, especially who are having the intent to invest 
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/data_visualization_Tableau/images/tableau-4.png" width="100%" height="100%" alt="story dashboard"/>
 
-Link to Tableau file: [Vietnam Stock Exchange - Tableau](https://public.tableau.com/app/profile/nhan3988/viz/VietnamExchanges2019/VietnamExchangeFormalReport2019)
+## Link to Tableau file
+
+Click this [Vietnam Stock Exchange - Tableau](https://public.tableau.com/app/profile/nhan3988/viz/VietnamExchanges2019/VietnamExchangeFormalReport2019) to open Tableau file to experience in interation.
+
 
 - - - - - 
 Feeling free to contact me if you have any questions around.

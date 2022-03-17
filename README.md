@@ -32,6 +32,8 @@ Beside managing project, I also play a role as product owner. Below are some bus
 
 6. [Person Counter (Computer Vision)](https://github.com/carfirst125/portfolio/tree/main/cv_person_counter) 
 
+7. [NLP with BERT](https://github.com/carfirst125/portfolio/tree/main/NLP_with_BERT)
+
 Just several DEMO Projects. For more insights, please contact me.
 
     Nhan Thanh Ngo (MBA/MSc/BE)

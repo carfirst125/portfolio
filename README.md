@@ -18,7 +18,7 @@ This guildline for customer oriented business data-driven system which concentra
 
 ### Applied ML/AI Projects [DEMO]
 
-Beside managing project, I also play a role as product owner. Below are some business issues and my MLAI solution for your reference.
+Belows are some business issues, and my data-driven solutions for them as your reference.
 
 1. [Collaborative Filtering Recommendation (User-based, Item-based Method)](https://github.com/carfirst125/portfolio/tree/main/collaborative_recommendation_system) 
 

@@ -1,3 +1,9 @@
+This is my record, used as my illustration for the project management expertise, including:
+
+  * How I manage the project in both methodologies, Traditional Waterfall and Agile.
+  * The essential project management template documents which I use for report and manage the project.
+  * Agile project management with Scrum in action.
+
 ## Project Management Overall
 
 Project management could be implemented through 4 major steps:
@@ -38,6 +44,8 @@ During executing phase, the PM continuous tracking the progress of project to be
 Before closing the project, the project needs launching and landing to evaluate the success criteria.
 
 <img src="https://github.com/carfirst125/portfolio/blob/main/Guildline%20-%20Project%20Management/diagram/PM-Closing.png" width="75%" height="75%" alt="project closing">
+
+-----
 
 ## Agile Project Management
 

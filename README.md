@@ -4,9 +4,10 @@
 1. My guildline for [Project Management](https://github.com/carfirst125/portfolio/tree/main/Guildline%20-%20Project%20Management)
 
 This guildline is used as my illustration for the project management expertise, including:
-   - How I manage the project in both methodologies, Traditional Waterfall and Agile.
-   - The essential project management template documents for reference.
-   - Agile project management with Scrum.
+
+  - How I manage the project in both methodologies, Traditional Waterfall and Agile.
+  - The essential project management template, including the reports, notes and documents I use to manage the project.
+  - Agile project management with Scrum.
 
 2. My guildline for [Applied MLAI project - Technical Flow](https://github.com/carfirst125/portfolio/tree/main/Applied%20MLAI%20Project%20-%20Technical%20Flow) 
 

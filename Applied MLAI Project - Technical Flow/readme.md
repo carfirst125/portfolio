@@ -43,9 +43,13 @@ Based on the data understanding and insights getting from EDA and multivariate a
 Below is some issues, and recommend techniques for solving.
 
 **Feature selection**: features which have correlation with label. The logical explained relationship between features and label was considered already in Part1.Task2.
+
 **Feature reduction**: Information Value (IV), Principal Component Analysis (PCA).
+
 **Feature crossing**: create new feature based on transformation of available features.
+
 **Data Normalization/Standardization/Scaling**: transform data features to approximate normal distribution, standard distribution or scale down data value. It is the final transformation step before putting data to model to train. Technique: min-max feature scaling, z-scoring.
+
 **Imbalanced Data process**: if the label data is skew, especially in almost logistic regression classification quest, the imbalance is usually significant. Undersampling and Oversampling technique could be considered as the solution for imbalanced issue. For Oversampling, recommend BorderlineSMOTE algorithm.
 
 ## Part 3: Build, Train, and Predict ML model

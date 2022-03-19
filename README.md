@@ -37,6 +37,10 @@ Belows are some business issues, and my data-driven solutions for them as your r
 
 8. [Data visualization - Tableau](https://github.com/carfirst125/portfolio/tree/main/data_visualization_Tableau)
 
+### Published Papers
+
+This is my [published research papers](https://github.com/carfirst125/portfolio/tree/main/Scientific%20Papers).
+
 Just several DEMO Projects. For more insights, please contact me.
 
     Nhan Thanh Ngo (MBA/MSc/BE)

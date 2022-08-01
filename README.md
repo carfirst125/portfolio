@@ -31,7 +31,7 @@ Belows are some business issues, and my data-driven solutions for them as your r
 
 5. [Customer Segmentation by Product](https://github.com/carfirst125/portfolio/tree/main/customer_segmentation) 
 
-6. [Person Counter (Computer Vision)](https://github.com/carfirst125/portfolio/tree/main/cv_person_counter) 
+6. [Computer Vision (Person Counter)](https://github.com/carfirst125/portfolio/tree/main/cv_person_counter) 
 
 7. [NLP with BERT](https://github.com/carfirst125/portfolio/tree/main/NLP_with_BERT)
 

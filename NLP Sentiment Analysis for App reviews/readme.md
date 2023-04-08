@@ -19,7 +19,9 @@ Three methods are applied to recognize, and measure negative sentiment strenght 
   
   * Customer Rating: this is implicit assessment of review sentiment. Following that, the review of low rating (less than 3) could be assumed having negative sentiment.
 
-Each method having one point. With one point more, the more sentence reaches to negative. In my demo, the sum of method point is used. Following that, each review has 4 value of point [0,1,2,3] with 3 is significant negative, 2 is slight negative, 1 is neutral, 0 is non-negative
+Each method having one point. With one point more, the more sentence reaches to negative. In my demo, the sum of method point is used. Following that, each review has 4 values of point [0,1,2,3] with 3 is significant-negative, 2 is slight-negative, 1 is neutral, 0 is non-negative.
+
+It is noted that the review data need processing before using. Processing including removing emoji, correct vietnamese words, stopwords processing, punctuation processing, etc.
 
 #### 2) Topic Modeling
 

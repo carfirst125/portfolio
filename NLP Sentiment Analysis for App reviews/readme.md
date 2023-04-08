@@ -15,17 +15,17 @@ Topic Modeling uses BERTopic Model with using
   * Sentence Transformer: "all-mpnet-base-v2"
   * UMAP model to reduce embedding dimensions
 
-      umap_model = umap.UMAP(n_neighbors=5,
-                          n_components=5,
-                          min_dist=0.05,
-                          metric='cosine',
-                          low_memory=False)
+     umap_model = umap.UMAP(n_neighbors=5,
+                            n_components=5,
+                            min_dist=0.05,
+                            metric='cosine',
+                            low_memory=False)
                           
   * HBSSCAN Model for document clustering
   
      hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=40,
-                                   min_samples=20,
-                                   metric='euclidean',
-                                   cluster_selection_method='leaf',  #'eom'
-                                   gen_min_span_tree=True,
-                                   prediction_data=True)
+                                     min_samples=20,
+                                     metric='euclidean',
+                                     cluster_selection_method='leaf',  #'eom'
+                                     gen_min_span_tree=True,
+                                     prediction_data=True)

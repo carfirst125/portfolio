@@ -54,10 +54,10 @@ topic_model = BERTopic(top_n_words=15,
 ```python
   import umap
   umap_model = umap.UMAP(n_neighbors=5,
-  n_components=5,
-  min_dist=0.05,
-  metric='cosine',
-  low_memory=False)
+                         n_components=5,
+                         min_dist=0.05,
+                         metric='cosine',
+                         low_memory=False)
 ```                 
   * HBSSCAN Model for document clustering
 
@@ -84,4 +84,12 @@ The result getting from running by BERTopic Model give information of topic grou
   * **Topic Hierarchical clustering**: Like the intertopic distance map, the hierarchical clustering supports you in combining similar topics in one to reduce the number of topics, and make result more condense.
 
  <img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/topic_hierarchical_clustering.PNG" width="80%" height="80%" alt="Topic Hierarchical clustering">
+ 
+ - - - - - 
+Feeling Free to contact me if you have any question around.
+
+    Nhan Thanh Ngo (BE/MSc/MBA)
+    Email: ngothanhnhan125@gmail.com
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052
 

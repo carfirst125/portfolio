@@ -1,0 +1,32 @@
+topic,gtopic,gtopic_content
+19,G0,relating to coin reward program (friend introduction)
+22,G0,relating to coin reward program (friend introduction)
+18,G1,topup/bill payment
+2,G1,topup/bill payment
+14,G1,topup/bill payment
+21,G2,"relating to use, payment by coins"
+28,G2,"relating to use, payment by coins"
+4,G3,relating to money transfer (can not transfer/slow transfer/transfered but not received)
+13,G3,relating to money transfer (can not transfer/slow transfer/transfered but not received)
+9,G3,relating to money transfer (can not transfer/slow transfer/transfered but not received)
+24,G3,relating to money transfer (can not transfer/slow transfer/transfered but not received)
+5,G4,login app and smart OTP issues
+25,G4,login app and smart OTP issues
+3,G4,login app and smart OTP issues
+6,G5,"hard ekyc registation, especially face identification"
+10,G5,"hard ekyc registation, especially face identification"
+1,G6,quality of app (slow/lag/unattractive)
+8,G6,quality of app (slow/lag/unattractive)
+27,G6,quality of app (slow/lag/unattractive)
+17,G6,quality of app (slow/lag/unattractive)
+16,G7,app error complaint
+29,G7,app error complaint
+12,G8,expressing disparage/disappoint to the app
+7,G8,expressing disparage/disappoint to the app
+15,G8,expressing disparage/disappoint to the app
+26,G8,expressing disparage/disappoint to the app
+23,G8,expressing disparage/disappoint to the app
+11,G10,staff support service quality
+0,G11,relating to card
+20,G11,relating to card
+-1,UNK,Outlier

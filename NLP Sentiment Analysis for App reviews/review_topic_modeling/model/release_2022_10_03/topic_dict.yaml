@@ -1,0 +1,481 @@
+-1: outlier
+0:
+- card
+- bank
+- call
+- fee
+- staff
+- credit
+- annual
+- card not
+- credit card
+- annual fee
+- customers
+- month
+- called
+- service
+- activate
+1:
+- version
+- old
+- interface
+- old version
+- update
+- old app
+- new version
+- use old
+- interface bad
+- version interface
+- not update
+- new
+- app interface
+- old app interface
+- interface ugly
+2:
+- qr
+- qr code
+- payment
+- scan
+- coin
+- deducted
+- failed
+- scan qr
+- payment failed
+- code
+- deduct
+- still deduct
+- still deducted
+- still
+- failed still
+3:
+- login
+- error error
+- not login
+- password
+- log
+- error error error
+- error
+- keep getting
+- not log
+- cant login
+- keep getting error
+- keep
+- getting error
+- change password
+- error not
+4:
+- not transfer money
+- please help
+- not transfer
+- money please help
+- money please
+- transfer money please
+- help error not
+- please help error
+- help error
+- transfer money
+- error not transfer
+- help
+- transfer
+- please
+- error not
+5:
+- otp
+- smart otp
+- smart
+- otp code
+- code
+- otp not
+- get otp
+- battery
+- smart otp not
+- otp app
+- otp error
+- install smart otp
+- otp pin
+- smart otp error
+- install smart
+6:
+- register
+- not register
+- registration
+- registered
+- registration not
+- register app
+- register forever
+- registration error
+- cant register
+- register registration
+- not register not
+- forever
+- not registered
+- not process
+- app registration
+7:
+- shit like
+- like shit like
+- shit like shit
+- shit
+- bad like
+- like shit
+- like bad like
+- like
+- like bad
+- shit like bad
+- bad like shit
+- shit shit
+- bad like bad
+- cheat
+- shit cheat
+8:
+- app lag
+- laggy
+- lag
+- slow
+- app laggy
+- slow app
+- app slow
+- app lag app
+- lag app
+- loading
+- lags
+- app lags
+- laggy app
+- app slow app
+- long
+9:
+- transfer
+- transfer money
+- money
+- quickly
+- money transfer
+- transfer keeps
+- transfer money app
+- money app
+- not transfer
+- lot
+- app
+- entering amount
+- faceid
+- not transfer money
+- transfer app
+10:
+- photo
+- take
+- picture
+- pictures
+- identity
+- face
+- taking
+- id
+- identity card
+- take pictures
+- take photo
+- citizen id
+- original
+- citizen
+- take picture
+11:
+- service
+- bored
+- quality
+- bad service
+- boring
+- vietnam
+- poor service
+- customer service
+- poor
+- service quality
+- business
+- service bad
+- customer
+- poor service quality
+- lowest
+12:
+- app like shit
+- like shit app
+- app like
+- shit app
+- shit
+- like shit
+- buggy
+- shit app like
+- app buggy
+- like
+- buggy app
+- bugs
+- shit app buggy
+- stupid
+- stupid app
+13:
+- money transfer
+- money
+- transfer
+- money transfer error
+- transfer error
+- error money
+- receive money
+- received money
+- error money transfer
+- not received money
+- recipient not
+- money money
+- source
+- received
+- source account
+14:
+- recharge
+- recharge phone
+- phone
+- recharged
+- not recharge
+- phone recharge
+- recharged phone
+- deducted
+- recharge phone coin
+- cant recharge
+- recharge not
+- top
+- recharge failed
+- phone coin
+- not recharge phone
+15:
+- bad bad
+- bad bad bad
+- bad
+- mistakes bad
+- mistakes
+- many mistakes
+- bad many mistakes
+- bad bad many
+- many mistakes bad
+- mistakes bad bad
+- bad many
+- least bad
+- least bad bad
+- bad least bad
+- bad least
+16:
+- errors
+- app error
+- error app
+- error app error
+- full
+- app error error
+- full errors
+- app error app
+- error
+- app lot errors
+- lot errors
+- app full
+- appp
+- errors app
+- error app bad
+17:
+- banking app
+- banking
+- criticize
+- banks
+- cover
+- apps
+- information hopefully improve
+- information hopefully
+- banks criticize
+- cover information hopefully
+- hopefully improve
+- hopefully improve problem
+- compared banks criticize
+- hopefully
+- banking apps
+18:
+- bill
+- pay
+- not pay
+- payment
+- bill payment
+- pay electricity bill
+- cant pay
+- electricity bill
+- pay bill
+- bill payment error
+- water
+- electricity
+- not pay electricity
+- refund
+- water bill
+19:
+- share
+- not share
+- friends
+- link
+- invite
+- share friends
+- friends cant
+- friendzone
+- share link
+- not share link
+- share not
+- invite friends
+- friends not
+- get link
+- not click
+20:
+- vib
+- vib bank
+- vib card
+- card
+- bank
+- another bank
+- staff
+- fee
+- money vib
+- almost
+- call
+- credit card
+- another
+- results
+- bye
+21:
+- bills
+- coins
+- coins not
+- use coins
+- coin
+- pay bills
+- pay
+- virtual coin
+- coins pay
+- bills coins
+- virtual
+- not pay bills
+- paying bills
+- coins not pay
+- cant use coins
+22:
+- friends
+- refer
+- invite
+- coins
+- receive coins
+- referral
+- invited
+- refer friends
+- not receive
+- receive
+- not receive coins
+- add coins
+- referring
+- not add coins
+- not add
+23:
+- see earnings
+- slow notification not
+- earnings
+- notification not see
+- not see earnings
+- slow notification
+- notification not
+- earnings slow notification
+- see earnings slow
+- earnings slow
+- hard use
+- good
+- good not
+- not good
+- not good not
+24:
+- money transfer
+- slow money
+- slow money transfer
+- transfer
+- slow
+- money
+- transfer slow
+- money slow
+- interface difficult use
+- interface difficult
+- money transfer slow
+- transfer interface
+- money transfer interface
+- long
+- transferring
+25:
+- log
+- password
+- device
+- another device
+- not log
+- logged
+- log back
+- logged another device
+- log log
+- logged another
+- another
+- deleted app
+- log another
+- deleted
+- log another account
+26:
+- lag
+- lag lag
+- lag lag lag
+- lag slow
+- lag like
+- slow lag
+- slow
+- trash
+- shit slow lag
+- slow response
+- lag slow response
+- lag lag slow
+- bugs lag
+- lag like shit
+- laggy lag
+27:
+- bad app
+- bad app app
+- app bad
+- app app bad
+- app app
+- bad app bad
+- app bad app
+- bad bad app
+- bad
+- good app
+- app really disappointed
+- bad good
+- app bad one
+- bad app recommend
+- time ive
+28:
+- coin
+- coins
+- coin app
+- app coin
+- coins not
+- coin not
+- like shit coin
+- shit coin
+- see coin app
+- people not
+- coins not use
+- app get
+- not see coin
+- see coin
+- coin points
+29:
+- many errors
+- errors many errors
+- errors
+- errors many
+- many errors many
+- many
+- much error
+- error many errors
+- error many
+- error much
+- frequent error
+- error much error
+- much
+- frequent
+- bit much

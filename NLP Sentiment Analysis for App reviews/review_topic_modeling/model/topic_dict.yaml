@@ -1,0 +1,481 @@
+-1: outlier
+0:
+- card
+- call
+- staff
+- bank
+- credit
+- fee
+- credit card
+- called
+- annual
+- annual fee
+- month
+- card not
+- switchboard
+- activated
+- call center
+1:
+- lag
+- laggy
+- slow
+- bugs
+- app lag
+- app laggy
+- buggy
+- app buggy
+- slow app
+- many bugs
+- lag app
+- app many bugs
+- app slow
+- bugs app
+- bug
+2:
+- kyc
+- crashing
+- keeps crashing
+- log
+- app keeps crashing
+- app keeps
+- register
+- keeps
+- crashes
+- app crashes
+- not register
+- not log
+- password
+- logged
+- app
+3:
+- recharge
+- phone
+- top
+- recharge phone
+- top phone
+- mobile
+- not recharge
+- phone recharge
+- recharge failed
+- cant top
+- phone card
+- phone number
+- not top
+- recharge failed still
+- recharged
+4:
+- download
+- app bad
+- not download
+- download app
+- not download app
+- errors
+- app bad not
+- app not
+- install
+- location
+- bad not
+- app
+- app like
+- app like shit
+- app not good
+5:
+- error error
+- error
+- much error
+- error error error
+- errors error
+- persistent error
+- persistent
+- many errors
+- error many errors
+- error forever
+- errors
+- error bit much
+- error bit
+- forever error
+- bit much error
+6:
+- bad bad
+- bad bad bad
+- coins
+- coin
+- coin not
+- use coins
+- bad
+- coins not
+- virtual coin
+- virtual
+- coin bad
+- lose coin
+- point giving
+- giving birth
+- point giving birth
+7:
+- photo
+- face
+- take
+- picture
+- taking
+- identity
+- pictures
+- id
+- identity card
+- take picture
+- register
+- original
+- citizen id
+- citizen
+- take pictures
+8:
+- old
+- interface
+- version
+- old version
+- old app
+- app interface
+- version interface
+- use old
+- interface bad
+- old version interface
+- old app interface
+- interface ugly
+- worse old
+- ugly
+- harder
+9:
+- qr
+- qr code
+- scan
+- coin
+- scan qr
+- code
+- coins
+- coin app
+- scan qr code
+- coins not
+- scanning
+- see coin
+- not see coin
+- vnpay
+- code scanning
+10:
+- otp
+- smart otp
+- smart
+- otp code
+- code
+- battery
+- otp not
+- otp error
+- get otp
+- install smart otp
+- install smart
+- otp code not
+- smart otp not
+- smart otp error
+- reset
+11:
+- link
+- share
+- cant get
+- link cant
+- get referral link
+- referral link
+- get referral
+- not share
+- cant get referral
+- link cant get
+- friends
+- referral link cant
+- share link
+- referral
+- cant
+12:
+- vib
+- vib app
+- hope vib
+- old vib
+- use vib
+- know vib
+- old
+- vouchers
+- vib use
+- use
+- new
+- check
+- vib anymore
+- considered
+- check app
+13:
+- coin
+- payment
+- deducted
+- coin deducted
+- failed
+- payment failed
+- refund
+- coin payment
+- not refunded
+- minus coin
+- deducted coin
+- refunded
+- refund coin
+- minus
+- failed still
+14:
+- like shit like
+- shit like
+- shit like shit
+- like shit
+- like bad like
+- bad like
+- shit
+- like
+- like bad
+- many mistakes
+- mistakes
+- shit like bad
+- bad like shit
+- cheat like
+- many mistakes like
+15:
+- transfer
+- transfer money
+- money
+- transfer keeps
+- not transfer
+- want transfer
+- money not
+- app bad
+- entering amount
+- transfer money not
+- not transfer money
+- keeps
+- entering
+- app
+- enough
+16:
+- friends
+- refer
+- referrals
+- referral
+- invite
+- not receive
+- referrals not
+- coins
+- receive
+- receive coins
+- refer friends
+- refer not
+- not receive coins
+- bonus
+- not add
+17:
+- bill
+- payment
+- pay
+- not pay
+- bill payment
+- failed
+- deduct money
+- still deducted money
+- deducted money
+- pay electricity bill
+- electricity bill
+- pay bill
+- bill payment error
+- water
+- payment failed
+18:
+- money transfer
+- received
+- error money
+- money
+- error money transfer
+- transfer
+- not received
+- received money
+- transfer successful
+- recipient not
+- not received money
+- transferred
+- money transfer error
+- recipient
+- see account money
+19:
+- banking app
+- banking
+- bank
+- worst banking app
+- bank makes
+- worst banking
+- app
+- banks
+- doesnt
+- statement
+- app bad
+- write app
+- doesnt function
+- lock
+- another bank
+20:
+- not transfer money
+- please help
+- money please help
+- transfer money please
+- help error
+- help error not
+- please help error
+- money please
+- error not transfer
+- not transfer
+- help
+- transfer money
+- please
+- error not
+- transfer
+21:
+- registration
+- sign
+- create account
+- not register
+- create
+- registration error
+- register
+- not sign
+- not register not
+- cant sign
+- not sign not
+- signing
+- not create
+- account cant
+- account
+22:
+- not login
+- login
+- password
+- log
+- cant login
+- not log
+- login not
+- password not
+- login not login
+- not login not
+- login cant
+- log error
+- cant log
+- wrong password
+- saying wrong
+23:
+- transferring
+- save
+- transfer
+- fast
+- transferring money
+- display
+- transfer without
+- money transfer
+- cumbersome
+- feature save
+- fast transfer
+- interface difficult use
+- interface difficult
+- inconvenient
+- money
+24:
+- app like shit
+- shit app
+- shit app like
+- app like
+- like shit app
+- shit
+- like shit
+- bad app app
+- bad app
+- app app like
+- like shit bad
+- app bad app
+- shit bad
+- like
+- app app
+25:
+- vib
+- card
+- vib bank
+- vibs
+- vib card
+- fees
+- customer
+- fee
+- credit card
+- customers
+- staff
+- another bank
+- bank
+- credit
+- vib bad
+26:
+- app error
+- error app error
+- error app
+- app error app
+- not fix
+- interruption error
+- interruption
+- like shit error
+- shit error
+- error
+- app error error
+- errors
+- fix
+- error vcl
+- interruption error not
+27:
+- balance
+- balance fluctuations
+- fluctuations
+- notification
+- notifications
+- account balance
+- balance change
+- fluctuations app
+- balance fluctuations app
+- account balance fluctuations
+- via app
+- banks
+- app doesnt balance
+- change notification
+- balance change notification
+28:
+- scam
+- scam app
+- app scam
+- app scam app
+- app cheat
+- fake app
+- app scams
+- steal
+- cheat app
+- cheats
+- scam app app
+- information scam
+- scam app cheat
+- dirty app
+- dirty
+29:
+- load
+- slow
+- slow money
+- slow money transfer
+- cant create link
+- create link
+- failed load
+- money transfer slow
+- load slow
+- long
+- transfer slow
+- take long
+- long time
+- cant create
+- transaction slow

@@ -67,7 +67,7 @@ The result getting from running by BERTopic Model give information of topic grou
 
   * **InterTopic distance map**: The figure shows you how likely the topics is similar each other. So you could group nearest distance topic groups into one.
  
- <img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/topic_distance_map.PNG" width="40%" height="40%" alt="InterTopic distance map" align="center">
+ <div align="center"><img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/topic_distance_map.PNG" width="40%" height="40%" alt="InterTopic distance map">
  
   * **Topic Hierarchical clustering**: Like the intertopic distance map, the hierarchical clustering supports you in combining similar topics in one to reduce the number of topics, and make result more condense.
 

@@ -20,10 +20,12 @@ Topic Modeling uses BERTopic Model with using
                           min_dist=0.05,
                           metric='cosine',
                           low_memory=False)
+                          
   * HBSSCAN Model for document clustering
+  
      hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=40,
                                    min_samples=20,
                                    metric='euclidean',
-                                   cluster_selection_method='leaf',  #'eom',
+                                   cluster_selection_method='leaf',  #'eom'
                                    gen_min_span_tree=True,
                                    prediction_data=True)

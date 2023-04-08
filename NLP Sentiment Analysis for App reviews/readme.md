@@ -9,7 +9,7 @@ This demo shows you contents as following:
 
 The scoring is got from probability of the review to be a negative one. The **Stochastic Gradient Descent** regression model (SGDRegressor) is applied.
 
-Step 1: Labelling for review data
+**Step 1: Labelling for review data**
      
 Three methods are applied to recognize, and measure negative sentiment strenght of a review:
  
@@ -23,13 +23,13 @@ Each method having one point. With one point more, the more sentence reaches to 
 
 It is noted that the review data need processing before using. Processing including removing emoji, correct vietnamese words, translate to English, English stopwords processing, etc.
 
-Step 2: Vectorize data and Model train
+**Step 2: Vectorize data and Model train**
 
 The review after processing including English translation fed into Tf-Idf Vectorizer to get the sentence vector.
 
 Those embedded vector is used to train with label in step 1 by SGDRegressor.
 
-The result return is probability of the review.
+The result return is regression value of the review. This value is used to calculate the sentiment score by formula (-2)\*(Pred_val/3 - 0.5). By this formula, sentiment score will be in \[-1, 1] with \[-1.0) is negative sentiment. 
 
 #### 2) Topic Modeling
 

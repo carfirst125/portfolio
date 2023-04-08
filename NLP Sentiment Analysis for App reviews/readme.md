@@ -58,5 +58,9 @@ topic_model = BERTopic(top_n_words=15,
                                    gen_min_span_tree=True,
                                    prediction_data=True)
 ```
+The result getting from running by BERTopic Model give information of topic group such as 
 
+  * **Basket of representative words in each group**: This is a hint for you to get the topic content.
+  * **InterTopic distance map**: The figure shows you how likely the topics is similar each other. So you could group nearest distance topic groups into one.
+  * **Topic Hierarchical clustering**: Like the intertopic distance map, the hierarchical clustering supports you in combining similar topics in one to reduce the number of topics, and make result more condense.
 

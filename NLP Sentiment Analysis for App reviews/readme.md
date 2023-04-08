@@ -5,10 +5,16 @@ This demo shows you contents as following:
   * Topic Modeling: Classify reviews into Topic groups.
   * Finally, making the dashboard for a reviews sentiment report.
 
-#### Sentiment Scoring
+#### 1) Sentiment Scoring
 
+The scoring is got from probability of the review to be a negative one. The **Stochastic Gradient Descent** regression model (SGDRegressor) is applied.
 
-#### Topic Modeling
+Step 1: Labelling for review data
+     
+ Three method are applied to recognize and measure negative sentiment strenght of a review:
+     * VADER: is the popular model which its self measure sentiment of a sentence. However, VADER is built for English (not Vietnamese). It might get more bias when run with a Vietnamese-English Google Translate review. Moreover, VADER itself does not have high accuracy.
+
+#### 2) Topic Modeling
 
 Topic Modeling uses BERTopic Model with using
 ```python

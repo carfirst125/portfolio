@@ -62,7 +62,7 @@ The result getting from running by BERTopic Model give information of topic grou
 
   * **Basket of representative words in each group**: This is a hint for you to get the topic content.
   
-  ![alt text](https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/topic_representative_keywords.PNG){width=60%}
+  ![alt text](https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/topic_representative_keywords.PNG){:width=60%}
 
   * **InterTopic distance map**: The figure shows you how likely the topics is similar each other. So you could group nearest distance topic groups into one.
   * **Topic Hierarchical clustering**: Like the intertopic distance map, the hierarchical clustering supports you in combining similar topics in one to reduce the number of topics, and make result more condense.

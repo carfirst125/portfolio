@@ -96,6 +96,28 @@ The result getting from running by BERTopic Model give information of topic grou
 
  <img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/topic_hierarchical_clustering.PNG" width="80%" height="80%" alt="Topic Hierarchical clustering">
  
+<div align="left">
+ 
+#### 3) Sentiment Dashboard Report
+ 
+ <img
+src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/1_review_by_month_barline_vib2_android.PNG" width="80%" height="80%" alt="Number of reviews by months">
+ 
+ 
+ <img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/1_sentiment_by_month_barline_vib2_android.PNG" width="80%" height="80%" alt="Sentiment by months">
+ 
+<img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/2_percent_share_of_review_rating_score_12m_vib2_android.PNG" width="80%" height="80%" alt="Review rating percentage in March 2023">
+ 
+
+ 
+ 
+ <img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/3_valid_reviews_by_month_table_vib2_android.PNG" width="80%" height="80%" alt="Number review by Topics">
+ 
+ <img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/4_valid_reviews_by_month_table_vib2_android.PNG" width="80%" height="80%" alt="Number review by Topics">
+ 
+<img src="https://github.com/carfirst125/portfolio/blob/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews/review_topic_modeling/image/5_sentiment_rating_by_topic_month_table_vib2_android.PNG" width="80%" height="80%" alt="Sentiment rating of topics by months">
+
+ 
  - - - - - 
 Feeling Free to contact me if you have any question around.
 

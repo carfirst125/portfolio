@@ -12,7 +12,11 @@ The scoring is got from probability of the review to be a negative one. The **St
 Step 1: Labelling for review data
      
  Three method are applied to recognize and measure negative sentiment strenght of a review:
+ 
      * VADER: is the popular model which its self measure sentiment of a sentence. However, VADER is built for English (not Vietnamese). It might get more bias when run with a Vietnamese-English Google Translate review. Moreover, VADER itself does not have high accuracy.
+     
+     * Negative words and positive words: this is where we can add our insights into model based on our experience/understanding about the language. By the way, the list of critial negative words and positive words is defined which the appearance of them in the sentence could deliver the strong conclusion in sentiment. Based on my particular Vietnamese review dataset, I figure out those list of words, and set rule number of negative words > positive words, so the review likely negative sentiment.
+     
 
 #### 2) Topic Modeling
 

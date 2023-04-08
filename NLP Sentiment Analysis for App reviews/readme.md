@@ -21,7 +21,15 @@ Three methods are applied to recognize, and measure negative sentiment strenght 
 
 Each method having one point. With one point more, the more sentence reaches to negative. In my demo, the sum of method point is used. Following that, each review has 4 values of point [0,1,2,3] with 3 is significant-negative, 2 is slight-negative, 1 is neutral, 0 is non-negative.
 
-It is noted that the review data need processing before using. Processing including removing emoji, correct vietnamese words, stopwords processing, punctuation processing, etc.
+It is noted that the review data need processing before using. Processing including removing emoji, correct vietnamese words, translate to English, English stopwords processing, etc.
+
+Step 2: Vectorize data and Model train
+
+The review after processing including English translation fed into Tf-Idf Vectorizer to get the sentence vector.
+
+Those embedded vector is used to train with label in step 1 by SGDRegressor.
+
+The result return is probability of the review.
 
 #### 2) Topic Modeling
 

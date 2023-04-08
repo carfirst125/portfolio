@@ -19,13 +19,13 @@ umap_model = umap.UMAP(n_neighbors=5,
                        n_components=5,
                        Skype: ngothanhnhan125
                        Phone: (+84) 938005052
-    
+```python
   umap_model = umap.UMAP(n_neighbors=5,
   n_components=5,
   min_dist=0.05,
   metric='cosine',
   low_memory=False)
-                          
+```                 
   * HBSSCAN Model for document clustering
   
      hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=40,

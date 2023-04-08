@@ -14,9 +14,9 @@ Topic Modeling uses BERTopic Model with using
   * Vectorizor Model: CountVectorizer with ngram range in (1,3) with stopwords processing.
   * Sentence Transformer: "all-mpnet-base-v2"
   * UMAP model to reduce embedding dimensions
-    umap_model = umap.UMAP(n_neighbors=5,
-                        n_components=5,
-                        min_dist=0.05,
-                        metric='cosine',
-                        low_memory=False)
+      umap_model = umap.UMAP(n_neighbors=5,
+                          n_components=5,
+                          min_dist=0.05,
+                          metric='cosine',
+                          low_memory=False)
   * HBSSCAN Model for document clustering

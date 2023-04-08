@@ -11,6 +11,22 @@ This demo shows you contents as following:
 #### Topic Modeling
 
 Topic Modeling uses BERTopic Model with using
+```python
+topic_model = BERTopic(top_n_words=15,
+                       nr_topics = 30,
+                       n_gram_range=(1,3), 
+                       calculate_probabilities=True,
+                       umap_model= umap_model,
+                       hdbscan_model=hdbscan_model,
+                       embedding_model=embedding_model,
+                       vectorizer_model = vectorizor_model,
+                       ctfidf_model=ctfidf_model,
+                       #similarity_threshold_merging=0.5,
+                       verbose=True,
+                       language="english",
+                       #calculate_probabilities=True,
+                       min_topic_size=300 ) # better [100,500]
+  ```
   * Vectorizor Model: CountVectorizer with ngram range in (1,3) with stopwords processing.
  ```python
  from sklearn.feature_extraction.text import CountVectorizer
@@ -34,27 +50,13 @@ Topic Modeling uses BERTopic Model with using
   * HBSSCAN Model for document clustering
 
 ```python  
-     import hbscan
-     hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=40,
-                                     min_samples=20,
-                                     metric='euclidean',
-                                     cluster_selection_method='leaf',  #'eom'
-                                     gen_min_span_tree=True,
-                                     prediction_data=True)
+   import hbscan
+   hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=40,
+                                   min_samples=20,
+                                   metric='euclidean',
+                                   cluster_selection_method='leaf',  #'eom'
+                                   gen_min_span_tree=True,
+                                   prediction_data=True)
 ```
-```python
-topic_model = BERTopic(top_n_words=15,
-                       nr_topics = 30,
-                       n_gram_range=(1,3), 
-                       calculate_probabilities=True,
-                       umap_model= umap_model,
-                       hdbscan_model=hdbscan_model,
-                       embedding_model=embedding_model,#word_doc_embedder,#embedding_model,
-                       vectorizer_model = vectorizor_model,
-                       ctfidf_model=ctfidf_model,
-                       #similarity_threshold_merging=0.5,
-                       verbose=True,
-                       language="english",
-                       #calculate_probabilities=True,
-                       min_topic_size=300 ) # better [100,500]
-  ```
+
+

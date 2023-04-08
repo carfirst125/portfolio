@@ -16,10 +16,10 @@ Topic Modeling uses BERTopic Model with using
   * UMAP model to reduce embedding dimensions
 
     umap_model = umap.UMAP(n_neighbors=5,
-                           n_components=5,
-                           min_dist=0.05,
-                           metric='cosine',
-                           low_memory=False)
+    \t\tn_components=5,
+    \t\tmin_dist=0.05,
+    \t\tmetric='cosine',
+    \t\tlow_memory=False)
                           
   * HBSSCAN Model for document clustering
   

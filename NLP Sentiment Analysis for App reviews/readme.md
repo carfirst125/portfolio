@@ -15,6 +15,11 @@ Topic Modeling uses BERTopic Model with using
   * Sentence Transformer: "all-mpnet-base-v2"
   * UMAP model to reduce embedding dimensions
 
+    umap_model = umap.UMAP(n_neighbors=5,
+                           n_components=5,
+    Skype: ngothanhnhan125
+    Phone: (+84) 938005052
+    
   umap_model = umap.UMAP(n_neighbors=5,
   n_components=5,
   min_dist=0.05,

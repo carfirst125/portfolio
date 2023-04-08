@@ -35,7 +35,9 @@ Belows are some business issues, and my data-driven solutions for them as your r
 
 7. [NLP with BERT](https://github.com/carfirst125/portfolio/tree/main/NLP_with_BERT)
 
-8. [Data visualization - Tableau](https://github.com/carfirst125/portfolio/tree/main/data_visualization_Tableau)
+8. [NLP Sentiment Analysis + Topic Modeling](https://github.com/carfirst125/portfolio/tree/main/NLP%20Sentiment%20Analysis%20for%20App%20reviews)
+
+9. [Data visualization - Tableau](https://github.com/carfirst125/portfolio/tree/main/data_visualization_Tableau)
 
 ### Published Papers
 
